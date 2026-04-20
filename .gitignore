@@ -1,0 +1,17 @@
+# Dataset (download separately from Kaggle)
+research/data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Docker volumes
+ollama_models/
+
+# OS
+.DS_Store
+Thumbs.db

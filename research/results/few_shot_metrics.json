@@ -1,0 +1,9 @@
+{
+  "technique": "few_shot",
+  "accuracy": 0.545,
+  "precision": 0.6452,
+  "recall": 0.2,
+  "f1": 0.3053,
+  "n_total": 200,
+  "n_parse_fail": 0
+}

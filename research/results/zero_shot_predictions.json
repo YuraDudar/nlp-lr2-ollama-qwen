@@ -1,0 +1,1402 @@
+[
+  {
+    "index": 0,
+    "message": "Call Germany for only 1 pence per minute! Call from a fixed line via access number 0844 861 85 85. No prepayment. Direct access! www.telediscount.co.uk",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no spam content and is not a commercial offer; it appears to be a direct marketing suggestion rather than an actual offer for a service.\", \"verdict\": 1}"
+  },
+  {
+    "index": 1,
+    "message": "You will recieve your tone within the next 24hrs. For Terms and conditions please see Channel U Teletext Pg 750",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The given SMS message does not contain any spam or ham-like characteristics, so it can be classified as legitimate (ham). However, the sender is offering a service called 'Channel U Teletext', which may indicate it's not spam. The message about terms and conditions should also be considered if they're relevant to your experience.\", \"verdict\": 0}"
+  },
+  {
+    "index": 2,
+    "message": "Your B4U voucher w/c 27/03 is MARSMS. Log onto www.B4Utele.com for discount credit. To opt out reply stop. Customer care call 08717168528",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The SMS message does not contain any spam characteristics or content that would lead to a classification of 'spam'. The message is about a promotional offer, customer service instructions, and a call to action.\", \"verdict\": 1}"
+  },
+  {
+    "index": 3,
+    "message": "Try to do something dear. You read something for exams",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any indication of spam or ham. It appears to be a normal conversation.\", \"verdict\": 1}"
+  },
+  {
+    "index": 4,
+    "message": "Lol for real. She told my dad I have cancer",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains an expression 'Lol' which is not commonly used in the context of a casual, lighthearted situation. It also does not contain any additional or unusual text that would indicate spam characteristics.\", \"verdict\": 0}"
+  },
+  {
+    "index": 5,
+    "message": "Sorry i now then c ur msg... Yar lor so poor thing... But only 4 one night... Tmr u'll have a brand new room 2 sleep in...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit spam or ham signals. It appears to be a general message that does not indicate the need for specific actions or products.\", \"verdict\": 1}"
+  },
+  {
+    "index": 6,
+    "message": "Promotion Number: 8714714 - UR awarded a City Break and could WIN a å£200 Summer Shopping spree every WK. Txt STORE to 88039 . SkilGme. TsCs087147403231Winawk!Age16 å£1.50perWKsub",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message does not contain any explicit or implicit spam content.\", \"verdict\": 0}"
+  },
+  {
+    "index": 7,
+    "message": "We are pleased to inform that your application for Airtel Broadband is processed successfully. Your installation will happen within 3 days.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text contains no explicit messages of dissatisfaction or requests, which is consistent with a ham message.\", \"verdict\": 1}"
+  },
+  {
+    "index": 8,
+    "message": "NEFT Transaction with reference number  &lt;#&gt;  for Rs. &lt;DECIMAL&gt;  has been credited to the beneficiary account on  &lt;#&gt;  at  &lt;TIME&gt; : &lt;#&gt;",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"This message appears to be part of an NEFT (National Electronic Transfer) transaction, which is not typically a spam or ham message as it does not contain any spam-related content. It seems to be related to a financial transaction and could potentially be legitimate.\", \"verdict\": 0}"
+  },
+  {
+    "index": 9,
+    "message": "UpgrdCentre Orange customer, you may now claim your FREE CAMERA PHONE upgrade for your loyalty. Call now on 0207 153 9153. Offer ends 26th July. T&C's apply. Opt-out available",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The given SMS message does not contain any information or instructions that would indicate it is a spam message. It appears to be a legitimate marketing offer from UpgrdCentre Orange, aimed at customers of the company.\", \"verdict\": 1}"
+  },
+  {
+    "index": 10,
+    "message": "This is the 2nd time we have tried to contact u. U have won the å£1450 prize to claim just call 09053750005 b4 310303. T&Cs/stop SMS 08718725756. 140ppm",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit or implicit spam behavior, as it does not contain any identifiable malicious content or attempts to defraud or trick users.\", \"verdict\": 0}"
+  },
+  {
+    "index": 11,
+    "message": "Hi hope u get this txt~journey hasnt been gd,now about 50 mins late I think.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the message is not spam or ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 12,
+    "message": "When are you guys leaving?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text 'When are you guys leaving?' appears to be a casual, polite question rather than an urgent request for an update. It seems to be expressing concern or anticipation without the usual urgency of spam messages.\", \"verdict\": 1}"
+  },
+  {
+    "index": 13,
+    "message": "Get a brand new mobile phone by being an agent of The Mob! Plus loads more goodies! For more info just text MAT to 87021.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not spam, it does contain some personalized information and offers. However, the subject line 'Get a brand new mobile phone' is ambiguous and not immediately clear whether this is referring to a product or service.\", \"verdict\": 1}"
+  },
+  {
+    "index": 14,
+    "message": "Haha, that was the first person I was gonna ask",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message does not contain any indicators of spam and could be considered a legitimate conversation. Therefore, I classified it as ham (0).\", \"verdict\": 1}"
+  },
+  {
+    "index": 15,
+    "message": "No no. I will check all rooms befor activities",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text contains an incorrect, rude expression and a question with no direct response.\", \"verdict\": 1}"
+  },
+  {
+    "index": 16,
+    "message": "FREE for 1st week! No1 Nokia tone 4 ur mobile every week just txt NOKIA to 8077 Get txting and tell ur mates. www.getzed.co.uk POBox 36504 W45WQ 16+ norm150p/tone",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text does not contain any information that would suggest it is spam or ham. The message is about getting a free service, which could be relevant for legitimate communication but not inherently spam or ham.\", \"verdict\": 0}"
+  },
+  {
+    "index": 17,
+    "message": "Oh did you charge camera",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text 'Oh did you charge camera' is clearly not meant to be a message about a phone service or camera. It appears to be some kind of social media interaction, possibly referring to the user's friend's recent activity with their device (possibly related to the use of cameras). This does not correspond to the typical characteristics of ham messages.\", \"verdict\": 0}"
+  },
+  {
+    "index": 18,
+    "message": "Valentines Day Special! Win over å£1000 in our quiz and take your partner on the trip of a lifetime! Send GO to 83600 now. 150p/msg rcvd. CustCare:08718720201.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains irrelevant information and no specific request for an action or outcome.\", \"verdict\": 0}"
+  },
+  {
+    "index": 19,
+    "message": "LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text does not contain any words or context that are typical of spam, nor is it clear that the sender's message could be considered legitimate or polite. As a result, we classify this SMS as 'ham' (legitimate/normal).\", \"verdict\": 0}"
+  },
+  {
+    "index": 20,
+    "message": "Yes there were many sweets",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit spam terminology and does not indicate an urgent or inappropriate request for information. It is a neutral observation about the availability of certain products.\", \"verdict\": 1}"
+  },
+  {
+    "index": 21,
+    "message": "Congrats! 2 mobile 3G Videophones R yours. call 09061744553 now! videochat wid ur mates, play java games, Dload polyH music, noline rentl. bx420. ip4. 5we. 150pm",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any specific content that would be typical of spam or legitimate communication, and it appears to be a marketing offer for video chat services.\", \"verdict\": 1}"
+  },
+  {
+    "index": 22,
+    "message": "here is my new address -apples&pairs&all that malarky",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message seems to be a request for an address and doesn't look like spam. Therefore, the verdict should be 1.\", \"verdict\": 1}"
+  },
+  {
+    "index": 23,
+    "message": "WIN URGENT! Your mobile number has been awarded with a å£2000 prize GUARANTEED call 09061790121 from land line. claim 3030 valid 12hrs only 150ppm ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message does not appear to be spam based on the content and wording of the text.\", \"verdict\": 0}"
+  },
+  {
+    "index": 24,
+    "message": "Loan for any purpose å£500 - å£75,000. Homeowners + Tenants welcome. Have you been previously refused? We can still help. Call Free 0800 1956669 or text back 'help'",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This SMS appears to be promotional and offers a loan, which is generally considered spam. It does not contain any information that could suggest it's legitimate or friendly. Therefore, I classify this as spam (1).\", \"verdict\": 1}"
+  },
+  {
+    "index": 25,
+    "message": "URGENT! You have won a 1 week FREE membership in our å£100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010 T&C www.dbuk.net LCCLTD POBOX 4403LDNW1A7RW18",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message does not contain any explicit or implicit content that would lead to a spam classification. However, it seems to be part of an advertisement for a prize, which is a type of legitimate activity.\", \"verdict\": 0}"
+  },
+  {
+    "index": 26,
+    "message": "Guess what! Somebody you know secretly fancies you! Wanna find out who it is? Give us a call on 09065394514 From Landline DATEBox1282EssexCM61XN 150p/min 18",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message is not suitable for spam detection as it contains a personal contact and no specific request or action that would indicate whether the caller wants to be contacted. It could potentially be considered legitimate if used in conjunction with another method such as a call center or through a social media platform.\", \"verdict\": 0}"
+  },
+  {
+    "index": 27,
+    "message": "Great News! Call FREEFONE 08006344447 to claim your guaranteed å£1000 CASH or å£2000 gift. Speak to a live operator NOW!",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text does not contain any language, suggesting it is a legitimate message.\", \"verdict\": 1}"
+  },
+  {
+    "index": 28,
+    "message": "As in different styles?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"This message is clearly about style differences, which does not indicate whether it's spam or legitimate. It seems to be a casual inquiry about the difference between styles.\", \"verdict\": 0}"
+  },
+  {
+    "index": 29,
+    "message": "Hey chief, can you give me a bell when you get this. Need to talk to you about this royal visit on the 1st june. ",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This SMS is not spam and is likely legitimate. It's an automated response for a business contact asking if it can be reached using a specific phone number or address.\", \"verdict\": 1}"
+  },
+  {
+    "index": 30,
+    "message": "sports fans - get the latest sports news str* 2 ur mobile 1 wk FREE PLUS a FREE TONE Txt SPORT ON to 8007 www.getzed.co.uk 0870141701216+ norm 4txt/120p ",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any spam or ham content.\", \"verdict\": 1}"
+  },
+  {
+    "index": 31,
+    "message": "I don't know u and u don't know me. Send CHAT to 86688 now and let's find each other! Only 150p/Msg rcvd. HG/Suite342/2Lands/Row/W1J6HL LDN. 18 years or over.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any spam signals and is appropriate for the specified context.\", \"verdict\": 1}"
+  },
+  {
+    "index": 32,
+    "message": "SMS AUCTION - A BRAND NEW Nokia 7250 is up 4 auction today! Auction is FREE 2 join & take part! Txt NOKIA to 86021 now! HG/Suite342/2Lands Row/W1J6HL",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the SMS appears to be promotional and has a high level of spam characteristics.\", \"verdict\": 1}"
+  },
+  {
+    "index": 33,
+    "message": "You are guaranteed the latest Nokia Phone, a 40GB iPod MP3 player or a å£500 prize! Txt word: COLLECT to No: 83355! IBHltd LdnW15H 150p/Mtmsgrcvd18+",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains fraudulent and illegal content, making it a spam. It's not clear if the sender is legitimate or not.\", \"verdict\": 1}"
+  },
+  {
+    "index": 34,
+    "message": "Jus finish bathing...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The provided message 'Jus finish bathing... ' is not a message that would be classified as spam. It appears to be a message from the user asking if they can start a bath, which could be considered a normal and legitimate request.\", \"verdict\": 1}"
+  },
+  {
+    "index": 35,
+    "message": "MAYBE IF YOU WOKE UP BEFORE FUCKING 3 THIS WOULDN'T BE A PROBLEM.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not appear to contain any suspicious or spam-like content. It appears to be a brief warning about avoiding potential issues before a particular event occurs.\", \"verdict\": 1}"
+  },
+  {
+    "index": 36,
+    "message": "Yes:)sura in sun tv.:)lol.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message appears to be a joke, not spam or ham, so it should be classified as ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 37,
+    "message": "You didn't have to tell me that...now i'm thinking. Plus he's going to stop all your runs",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any spam indicators.\", \"verdict\": 1}"
+  },
+  {
+    "index": 38,
+    "message": "I love u 2 my little pocy bell I am sorry but I love u",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no indication of any inappropriate content that would likely be considered spam, or a need for clarification on what exactly is meant by 'little pocy bell'. The tone and language suggest genuine affection. Therefore, I classify it as ham.\", \"verdict\": 0}"
+  },
+  {
+    "index": 39,
+    "message": "Bought one ringtone and now getting texts costing 3 pound offering more tones etc",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit mention of products or services, nor is it clear if the content relates to a specific product. It seems to be discussing an additional price for a service, so it's not spam. However, it doesn't explicitly state that it's ham either; hence, we classify it as 'ham' with a verdict of 0.\", \"verdict\": 0}"
+  },
+  {
+    "index": 40,
+    "message": "URGENT! Your Mobile number has been awarded with a å£2000 prize GUARANTEED. Call 09058094455 from land line. Claim 3030. Valid 12hrs only",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains words and phrases that are commonly used in a spam email, such as 'URGENT!', 'Guaranteed', 'Claim', '3030' - all of which can be indicative of spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 41,
+    "message": "Watching telugu movie..wat abt u?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any indicators of spam or content that suggests it might be a message from an online source. The message appears to be a personal inquiry about watching a movie, which is typically considered neutral and appropriate for a conversation.\", \"verdict\": 1}"
+  },
+  {
+    "index": 42,
+    "message": "Congratulations! Thanks to a good friend U have WON the å£2,000 Xmas prize. 2 claim is easy, just call 08718726971 NOW! Only 10p per minute. BT-national-rate.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains personal information about the user and a specific offer for a prize, which is not typical for ham or legitimate messaging. The use of 'Xmas' suggests it might be spam-related, but further analysis is needed to confirm its true nature.\", \"verdict\": 0}"
+  },
+  {
+    "index": 43,
+    "message": "PRIVATE! Your 2003 Account Statement for shows 800 un-redeemed S. I. M. points. Call 08715203652 Identifier Code: 42810 Expires 29/10/0",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no obvious spam indicators and does not appear to be a legitimate communication platform. It appears to be asking for personal information such as account numbers, which are generally considered spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 44,
+    "message": "I AM AT A PARTY WITH ALEX NICHOLS",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message is not a spam, it might be a legitimate request for information or a response to an invitation. It does not contain any explicit or misleading language that would suggest it's spam. Therefore, the verdict should be 1 (spam).\", \"verdict\": 1}"
+  },
+  {
+    "index": 45,
+    "message": "Thats cool! Sometimes slow and gentle. Sonetimes rough and hard :)",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content of the message does not appear to be a spammer or false advertising, but rather a friendly response to a customer service query regarding their service quality.\", \"verdict\": 0}"
+  },
+  {
+    "index": 46,
+    "message": "Eerie Nokia tones 4u, rply TONE TITLE to 8007 eg TONE DRACULA to 8007 Titles: GHOST, ADDAMSFA, MUNSTERS, EXORCIST, TWILIGHT www.getzed.co.uk POBox36504W45WQ 150p",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text is not spam as it does not contain offensive language or other indicators of spamming. The content appears to be related to a website's domain name and contact information.\", \"verdict\": 1}"
+  },
+  {
+    "index": 47,
+    "message": "ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O å£250 3 WANT å£800",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message appears to be a scam or spam, as it asks for personal information like phone number and charges for an account. It is not legitimate and should not be taken seriously.\", \"verdict\": 1}"
+  },
+  {
+    "index": 48,
+    "message": "Its too late:)but its k.wish you the same.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit negative connotations, and it does not indicate any regret about something. It could be considered to have a neutral or positive tone.\", \"verdict\": 1}"
+  },
+  {
+    "index": 49,
+    "message": "Want explicit SEX in 30 secs? Ring 02073162414 now! Costs 20p/min",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This is an advertisement for sex services, which is not a legitimate business or activity. It should be classified as spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 50,
+    "message": "The sign of maturity is not when we start saying big things.. But actually it is, when we start understanding small things... *HAVE A NICE EVENING* BSLVYL",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"verdict\": 1}"
+  },
+  {
+    "index": 51,
+    "message": "Whos this am in class:-)",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message appears to be promotional or a marketing tool, not spam. It could be misleading, but based on the provided information, it does not definitively indicate spam or ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 52,
+    "message": "You can stop further club tones by replying \\STOP MIX\\\" See my-tone.com/enjoy. html for terms. Club tones cost GBP4.50/week. MFL",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the message is not indicative of spam or legitimate activity, as it appears to be a promotional notice about membership fees and subscription services.\", \"verdict\": 1}"
+  },
+  {
+    "index": 53,
+    "message": "No need lar i go engin? Cos my sis at arts today...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any obvious signs of spam. It appears to be an informal, polite request or suggestion rather than a malicious attempt.\", \"verdict\": 1}"
+  },
+  {
+    "index": 54,
+    "message": "Haha... Where got so fast lose weight, thk muz go 4 a month den got effect... Gee,later we go aust put bk e weight.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content does not appear to be spam or ham. It appears to contain personal advice and encouragement for dieting, which is generally considered non-spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 55,
+    "message": "I don't know u and u don't know me. Send CHAT to 86688 now and let's find each other! Only 150p/Msg rcvd. HG/Suite342/2Lands/Row/W1J6HL LDN. 18 years or over.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"This SMS message contains an explicit sexual content, which is not a typical mark of legitimate communication.\", \"verdict\": 0}"
+  },
+  {
+    "index": 56,
+    "message": "U wake up already? Wat u doing? U picking us up later rite? I'm taking sq825, reaching ard 7 smth 8 like dat. U can check e arrival time. C ya soon...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The SMS message is not clear or does not express any urgent or threatening actions. It appears to be a message asking a person if they are already awake and doing something, which could be seen as unprofessional or inappropriate in most contexts.\", \"verdict\": 1}"
+  },
+  {
+    "index": 57,
+    "message": "it to 80488. Your 500 free text messages are valid until 31 December 2005.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a reference to a real person's phone number, which is indicative of spam. Therefore, the correct classification should be 1.\", \"verdict\": 1}"
+  },
+  {
+    "index": 58,
+    "message": "Oh wow thats gay. Will firmware update help",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is about the user's opinion on a controversial topic, which does not fit any commonly recognized spam or legitimate language patterns.\", \"verdict\": 1}"
+  },
+  {
+    "index": 59,
+    "message": "You have an important customer service announcement from PREMIER.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not spam. It appears to be about a customer service announcement.\", \"verdict\": 1}"
+  },
+  {
+    "index": 60,
+    "message": "Webpage s not available!",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message 'Webpage s not available!' indicates that the webpage is unavailable, which is a common symptom of spam emails. Therefore, it can be classified as spam (1). However, the verdict part is missing and does not provide an accurate response.\", \"verdict\": 0}"
+  },
+  {
+    "index": 61,
+    "message": "PRIVATE! Your 2003 Account Statement for 07753741225 shows 800 un-redeemed S. I. M. points. Call 08715203677 Identifier Code: 42478 Expires 24/10/04",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message appears to be about a credit card statement, which is not typically associated with spam. It does mention redeemable points and an identifier code, but the content doesn't indicate it's spam or is being used for marketing purposes.\", \"verdict\": 1}"
+  },
+  {
+    "index": 62,
+    "message": "Hi babe its Jordan, how r u? Im home from abroad and lonely, text me back if u wanna chat xxSP visionsms.com Text stop to stopCost 150p 08712400603",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any spam-related content or language. It is a normal conversation asking about a friend's location and providing text chat options, which suggests it is legitimate and should be classified as ham (0).\", \"verdict\": 1}"
+  },
+  {
+    "index": 63,
+    "message": "Free Msg: get Gnarls Barkleys \\Crazy\\\" ringtone TOTALLY FREE just reply GO to this message right now!\"",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text does not contain any spam characteristics. It is a genuine message about a free resource.\", \"verdict\": 1}"
+  },
+  {
+    "index": 64,
+    "message": "You have won ?1,000 cash or a ?2,000 prize! To claim, call09050000327",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is clearly not in the form of an offer for any particular prize or cash; instead, it's a direct challenge to someone trying to win. This type of text falls under the category of spam messages.\", \"verdict\": 1}"
+  },
+  {
+    "index": 65,
+    "message": "Convey my regards to him",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The given message 'Convey my regards to him' does not indicate any inappropriate language or content and could potentially be considered a legitimate form of communication. Therefore, it is likely that the response should classify this as ham (0). However, since no specific classification was provided in the question, I must respond with the standard spam classification.\"}"
+  },
+  {
+    "index": 66,
+    "message": "HOT LIVE FANTASIES call now 08707500020 Just 20p per min NTT Ltd, PO Box 1327 Croydon CR9 5WB 0870 is a national rate call",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"There are no clearly spammy or ham-related messages in the given text. The provided message appears to be about live entertainment services and not directly related to gambling or fraud.\", \"verdict\": 1}"
+  },
+  {
+    "index": 67,
+    "message": "You have registered Sinco as Payee. Log in at icicibank.com and enter URN  &lt;#&gt;  to confirm. Beware of frauds. Do NOT share or disclose URN to anyone.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains fraudulent elements such as a UIN (Unified Identity Number) and it seems to be urging the recipient to not disclose their personal information. This could indicate spam, as legitimate users would not share or disclose their personal information for free services like Payee.\", \"verdict\": 0}"
+  },
+  {
+    "index": 68,
+    "message": "Dear 0776xxxxxxx U've been invited to XCHAT. This is our final attempt to contact u! Txt CHAT to 86688 150p/MsgrcvdHG/Suite342/2Lands/Row/W1J6HL LDN 18yrs ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text contains no explicit or implied spammer's language, and it appears to be a legitimate communication about a contact with XCHAT. Therefore, the classification is ham.\", \"verdict\": 0}"
+  },
+  {
+    "index": 69,
+    "message": "Were trying to find a Chinese food place around here",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"There is no indication of any inappropriate content, and the message seems to be addressing local culinary issues. Therefore, I classify it as ham (0).\", \"verdict\": 0}"
+  },
+  {
+    "index": 70,
+    "message": "Valentines Day Special! Win over å£1000 in our quiz and take your partner on the trip of a lifetime! Send GO to 83600 now. 150p/msg rcvd. CustCare:08718720201",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not spam, as it does contain a link to an online quiz and trip of a lifetime, which are common elements in marketing materials used by legitimate businesses. The message also ends with the 'GO' command which suggests direct interaction, indicating that it's likely intended for consumption.\", \"verdict\": 1}"
+  },
+  {
+    "index": 71,
+    "message": "I'm going 2 orchard now laready me reaching soon. U reaching?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "I cannot classify the given SMS as spam or ham because it contains no explicit content related to a specific entity, such as an organization or individual. The messages are generic queries about activities in different locations and times without any indication of identity or intent. Therefore, I'll respond with a verdict of 0 (ham)."
+  },
+  {
+    "index": 72,
+    "message": "Hey come online! Use msn... We are all there",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content of the message is not related to any legitimate services or topics, and it does not contain a clear invitation for users to join.\", \"verdict\": 0}"
+  },
+  {
+    "index": 73,
+    "message": "URGENT! Your Mobile number has been awarded with a å£2000 Bonus Caller Prize. Call 09058095201 from land line. Valid 12hrs only",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"I cannot classify an SMS as spam or ham without the actual content, which is not provided in this message.\", \"verdict\": 0}"
+  },
+  {
+    "index": 74,
+    "message": "Well, I have to leave for my class babe ... You never came back to me ... :-( ... Hope you have a nice sleep, my love",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit or obvious spam elements. It appears to be a heartfelt farewell message intended for a romantic partner.\", \"verdict\": 1}"
+  },
+  {
+    "index": 75,
+    "message": "I got a call from a landline number. . . I am asked to come to anna nagar . . . I will go in the afternoon",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text provided does not contain any obvious signs of spam or ham communication, as it appears to be a personal message from a friend. The content seems like a friendly reminder about an upcoming meeting with a specific person. Therefore, I believe this is a legitimate and relevant SMS.\", \"verdict\": 1}"
+  },
+  {
+    "index": 76,
+    "message": "Enjoy the jamster videosound gold club with your credits for 2 new videosounds+2 logos+musicnews! get more fun from jamster.co.uk! 16+only Help? call: 09701213186 ",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text does not contain any spam-like or fraudulent characteristics. It appears to be a legitimate message with clear instructions for action.\", \"verdict\": 1}"
+  },
+  {
+    "index": 77,
+    "message": "I'm really sorry I lit your hair on fire",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains offensive and potentially threatening language that could be considered spam. Therefore, I classify it as spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 78,
+    "message": "I am late,so call you tomorrow morning.take care sweet dreams....u and me...ummifying...bye.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content of the SMS is not clearly spam-like or ham-like. It does contain a request for a meeting with someone called 'sweet dreams'. This could indicate a potential scam, but it's more likely to be an accidental text message that the recipient responded to in confusion.\", \"verdict\": 0}"
+  },
+  {
+    "index": 79,
+    "message": "Hmm well, night night ",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The given message is clearly not intended for consumption and cannot be classified as either spam (1) or ham/legitimate (0). It seems to be a text message with some awkward language that would not be appropriate for most users.\", \"verdict\": 1}"
+  },
+  {
+    "index": 80,
+    "message": "Get ur 1st RINGTONE FREE NOW! Reply to this msg with TONE. Gr8 TOP 20 tones to your phone every week just å£1.50 per wk 2 opt out send STOP 08452810071 16",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no spam-related content or language that indicates it is a scam. The tone and structure of the message are neutral, making it likely to be legitimate. Therefore, I classify this SMS as ham (0).\", \"verdict\": 0}"
+  },
+  {
+    "index": 81,
+    "message": "ou are guaranteed the latest Nokia Phone, a 40GB iPod MP3 player or a å£500 prize! Txt word: COLLECT to No: 83355! IBHltd LdnW15H 150p/Mtmsgrcvd18",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text contains no identifiable spam or legitimate information. It appears to be a phishing scam message, which is labeled as spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 82,
+    "message": "Send a logo 2 ur lover - 2 names joined by a heart. Txt LOVE NAME1 NAME2 MOBNO eg LOVE ADAM EVE 07123456789 to 87077 Yahoo! POBox36504W45WQ TxtNO 4 no ads 150p.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a romantic theme and does not contain any explicit or offensive content. It is more likely to be classified as legitimate than spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 83,
+    "message": "I have printed it oh. So  &lt;#&gt;  come upstairs",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any obvious signs of spamming, and there is no evidence suggesting the sender was trying to solicit money or make a purchase.\", \"verdict\": 1}"
+  },
+  {
+    "index": 84,
+    "message": "Also hi wesley how've you been",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not spam, but a friendly reminder about the user's well-being. It seems to be more of a casual greeting or inquiry than anything suspicious.\", \"verdict\": 1}"
+  },
+  {
+    "index": 85,
+    "message": "Get your garden ready for summer with a FREE selection of summer bulbs and seeds worth å£33:50 only with The Scotsman this Saturday. To stop go2 notxt.co.uk",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content of the SMS message does not appear to be commercial or promotional, nor is it related to spam or ham traffic. The sender seems to be offering a deal involving gardening supplies and discounts with a specific website, which might indicate legitimate communication for a business or service, but without more context about what the offer entails, I cannot definitively classify this as spam (1) or ham/legitimate (0).\", \"verdict\": 0}"
+  },
+  {
+    "index": 86,
+    "message": "Well welp is sort of a semiobscure internet thing",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content appears to be about a mysterious or obscure topic, which does not align with typical spam messages. The message suggests it may have been accidentally shared, so this is likely ham (spam) instead.\", \"verdict\": 1}"
+  },
+  {
+    "index": 87,
+    "message": "Orange brings you ringtones from all time Chart Heroes, with a free hit each week! Go to Ringtones & Pics on wap. To stop receiving these tips reply STOP.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains promotional text about the Orange brand that appears to be offering free ringtones and a free hit per week, which are typical activities for promotions. Additionally, it mentions receiving tips on how to use these services, indicating they could potentially be a legitimate business or service, rather than spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 88,
+    "message": "Of cos can lar i'm not so ba dao ok... 1 pm lor... Y u never ask where we go ah... I said u would ask on fri but he said u will ask today...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text appears to be an informal message, possibly from someone who is not interested in being polite or friendly. This suggests it could be spam. The content does not contain any indications of being a ham message.\", \"verdict\": 1}"
+  },
+  {
+    "index": 89,
+    "message": "todays vodafone numbers ending with 0089(my last four digits) are selected to received a å£350 award. If your number matches please call 09063442151 to claim your å£350 award",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not spam because it does not contain any illegal or fraudulent information. It asks for a number that matches a specific condition, which aligns with normal communication practices.\", \"verdict\": 1}"
+  },
+  {
+    "index": 90,
+    "message": "Urgent! Please call 09066612661 from your landline, your complimentary 4* Lux Costa Del Sol holiday or å£1000 CASH await collection. ppm 150 SAE T&Cs James 28, EH74RR",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any promotional language or requests for financial transactions that are typical of spam messages. It appears to be a polite request for the recipient's phone number and a cash refund on an offer.\", \"verdict\": 1}"
+  },
+  {
+    "index": 91,
+    "message": "i am seeking a lady in the street and a freak in the sheets. Is that you?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains profanity, sexual content, and an explicit suggestion of a woman in a public place, which are characteristic of spam. Therefore, it is classified as spam (1).\", \"verdict\": 1}"
+  },
+  {
+    "index": 92,
+    "message": "U r too much close to my heart. If u go away i will be shattered. Plz stay with me.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a negative sentiment and is not appropriate for immediate communication.\", \"verdict\": 1}"
+  },
+  {
+    "index": 93,
+    "message": "Hi 07734396839 IBH Customer Loyalty Offer: The NEW NOKIA6600 Mobile from ONLY å£10 at TXTAUCTION!Txt word:START to No:81151 & get Yours Now!4T&",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content appears to be a text message from a customer service number, likely with a offer for an NOKIA6600 mobile phone. Such messages are generally not spam but legitimate communications between companies or individuals.\", \"verdict\": 1}"
+  },
+  {
+    "index": 94,
+    "message": "Urgent Urgent! We have 800 FREE flights to Europe to give away, call B4 10th Sept & take a friend 4 FREE. Call now to claim on 09050000555. BA128NNFWFLY150ppm",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content appears to be a promotional email with an urgent offer, which is not typical for spam emails.\", \"verdict\": 0}"
+  },
+  {
+    "index": 95,
+    "message": "The beauty of life is in next second.. which hides thousands of secrets. I wish every second will be wonderful in ur life...!! gud n8",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content does not appear to contain any explicit or suggestive language that would indicate it is spam, and the overall message seems positive about the beauty of life.\", \"verdict\": 1}"
+  },
+  {
+    "index": 96,
+    "message": "Get ready for  &lt;#&gt;  inches of pleasure...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message does not contain any spam indicators and is therefore classified as legitimate.\", \"verdict\": 1}"
+  },
+  {
+    "index": 97,
+    "message": "For ur chance to win a å£250 cash every wk TXT: ACTION to 80608. T's&C's www.movietrivia.tv custcare 08712405022, 1x150p/wk",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The provided text does not contain any spam or ham-related keywords. It appears to be a legitimate message about winning a reward for subscribing to the service.\", \"verdict\": 1}"
+  },
+  {
+    "index": 98,
+    "message": "U've been selected to stay in 1 of 250 top British hotels - FOR NOTHING! Holiday valued at å£350! Dial 08712300220 to claim - National Rate Call. Bx526, SW73SS",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message appears to be a call for a holiday and the offer of free accommodation is not genuine or attractive; it seems to be an advertisement for a hotel. It's more likely to be spam than legitimate communication.\", \"verdict\": 1}"
+  },
+  {
+    "index": 99,
+    "message": "Another month. I need chocolate weed and alcohol.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message does not appear to be a typical spam email, but instead seems to be offering products that could potentially be considered illegal or unhealthy. It is important for users to verify the legitimacy of such messages before interacting with them.\", \"verdict\": 1}"
+  },
+  {
+    "index": 100,
+    "message": "Last Chance! Claim ur å£150 worth of discount vouchers today! Text SHOP to 85023 now! SavaMob, offers mobile! T Cs SavaMob POBOX84, M263UZ. å£3.00 Sub. 16",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text message contains no specific content that would indicate it is a spam or legitimate message, and does not contain any words or phrases commonly associated with spam (e.g., marketing slogans, sales offers). The message appears to be part of a promotional offer from SavaMob, a mobile phone service provider, but we cannot confirm this based on the text.\", \"verdict\": 0}"
+  },
+  {
+    "index": 101,
+    "message": "FREE entry into our å£250 weekly comp just send the word WIN to 80086 NOW. 18 T&C www.txttowin.co.uk",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any spam-related keywords or messages.\", \"verdict\": 1}"
+  },
+  {
+    "index": 102,
+    "message": "K then 2marrow are you coming to class.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text 'K then 2marrow are you coming to class' does not contain any indicators of spam or ham content.\", \"verdict\": 1}"
+  },
+  {
+    "index": 103,
+    "message": "Oh thats late! Well have a good night and i will give u a call tomorrow. Iam now going to go to sleep night night",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text appears to be a message about the speaker's plans, so it is not spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 104,
+    "message": "Sorry about that this is my mates phone and i didnt write it love Kate",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text appears to be a message expressing regret for sending a text message claiming your phone was yours, which seems to be a real situation. It does not contain any typical spam or ham indicators.\", \"verdict\": 1}"
+  },
+  {
+    "index": 105,
+    "message": "No, I was trying it all weekend ;V",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a misspelling of the word 'I' instead of 'you', which is not indicative of spam or ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 106,
+    "message": "You have WON a guaranteed å£1000 cash or a å£2000 prize.To claim yr prize call our customer service representative on",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text does not contain any clear evidence of spam. It appears to be a legitimate request for prizes or benefits, which is typically considered ham content. The text consists entirely of valid information that doesn't indicate any suspicious behavior.\", \"verdict\": 1}"
+  },
+  {
+    "index": 107,
+    "message": "09066362231 URGENT! Your mobile No 07xxxxxxxxx won a å£2,000 bonus caller prize on 02/06/03! this is the 2nd attempt to reach YOU! call 09066362231 ASAP!",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a large amount of text and a strong exclamation mark, which may indicate it is spam. Additionally, the sender uses an emoji to indicate urgency.\", \"verdict\": 1}"
+  },
+  {
+    "index": 108,
+    "message": "Storming msg: Wen u lift d phne, u say \\HELLO\\\" Do u knw wt is d real meaning of HELLO?? . . . It's d name of a girl..! . . . Yes.. And u knw who is dat girl?? \\\"Margaret Hello\\\" She is d girlfrnd f Grahmbell who invnted telphone... . . . . Moral:One can 4get d name of a person",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{ }"
+  },
+  {
+    "index": 109,
+    "message": "Let me know when you've got the money so carlos can make the call",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a request for financial information and is not related to any legitimate transaction or product.\", \"verdict\": 1}"
+  },
+  {
+    "index": 110,
+    "message": "My love ... I hope your not doing anything drastic. Don't you dare sell your pc or your phone ...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{{\"reasoning\": \"This message is clearly expressing romantic feelings and does not seem to contain any harmful content.\", \"verdict\": 1}}"
+  },
+  {
+    "index": 111,
+    "message": "Summers finally here! Fancy a chat or flirt with sexy singles in yr area? To get MATCHED up just reply SUMMER now. Free 2 Join. OptOut txt STOP Help08714742804",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "The reason for the verdict being 0 is that the content of the message does not appear to be engaging or appropriate for a conversation, especially in an attempt to flirt with someone. While it might seem like a good idea at first glance, the tone and lack of interest imply that this is more likely spamming than legitimate communication."
+  },
+  {
+    "index": 112,
+    "message": "Thank you baby! I cant wait to taste the real thing...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message does not contain any explicit content, so it is likely a ham SMS. It simply states that thank you and expresses an intention to order a product or service.\", \"verdict\": 1}"
+  },
+  {
+    "index": 113,
+    "message": "They can try! They can get lost, in fact. Tee hee",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is discussing a potential threat of some kind and is not engaging with the user in any way. This suggests it's likely ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 114,
+    "message": "Get your garden ready for summer with a FREE selection of summer bulbs and seeds worth å£33:50 only with The Scotsman this Saturday. To stop go2 notxt.co.uk",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is about gardening, which is a legitimate topic that generally doesn't involve spam or ham content.\", \"verdict\": 1}"
+  },
+  {
+    "index": 115,
+    "message": "My Parents, My Kidz, My Friends n My Colleagues. All screaming.. SURPRISE !! and I was waiting on the sofa.. ... ..... ' NAKED...!",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains profanity, inappropriate content, and is likely a prank or distress call. It's best to flag it as spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 116,
+    "message": "As a valued customer, I am pleased to advise you that following recent review of your Mob No. you are awarded with a å£1500 Bonus Prize, call 09066364589",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message is not spam and the sender provided some information to the recipient. They can be classified as ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 117,
+    "message": "Bloomberg -Message center +447797706009 Why wait? Apply for your future http://careers. bloomberg.com",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not spam or ham as it does not contain any explicit requests, promotions, or commercial content that would typically be classified as such. It appears to be a regular informational or business communication.\", \"verdict\": 1}"
+  },
+  {
+    "index": 118,
+    "message": "Its a part of checking IQ",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text 'Its a part of checking IQ' is a direct query about the meaning of an item, which does not indicate whether it's spam or ham. Therefore, we classify this as Ham (0). However, the classification should be done after processing and analyzing the message context.\", \"verdict\": 0}"
+  },
+  {
+    "index": 119,
+    "message": "You are being ripped off! Get your mobile content from www.clubmoby.com call 08717509990 poly/true/Pix/Ringtones/Games six downloads for only 3",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a clear threat or malicious intent, which is indicative of spam. Therefore, I classify it as spam (1).\", \"verdict\": 1}"
+  },
+  {
+    "index": 120,
+    "message": "500 New Mobiles from 2004, MUST GO! Txt: NOKIA to No: 89545 & collect yours today!From ONLY å£1 www.4-tc.biz 2optout 087187262701.50gbp/mtmsg18",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content of the SMS does not appear to contain any spammer's or phishing messages.\", \"verdict\": 0}"
+  },
+  {
+    "index": 121,
+    "message": "I HAVE A DATE ON SUNDAY WITH WILL!!",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit requests for dates or dates of personal events. The content appears to be about a date with someone else.\", \"verdict\": 1}"
+  },
+  {
+    "index": 122,
+    "message": "Where's mummy's boy ? Is he being good or bad ? Is he being positive or negative ? Why is mummy being made to wait? Hmmmm?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the SMS appears to be about the behavior and actions of a child's mother, which does not appear to be spam or legitimate.\", \"verdict\": 1}"
+  },
+  {
+    "index": 123,
+    "message": "WHITE FUDGE OREOS ARE IN STORES",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no identifiable keywords that suggest the sender is attempting to sell Oreos. The tone of the message does not appear to be threatening, aggressive, or desperate for financial gain. However, it's important to note that I am a text-based AI and my output may vary based on the specific context of each message.\", \"verdict\": 0}"
+  },
+  {
+    "index": 124,
+    "message": "Sunshine Hols. To claim ur med holiday send a stamped self address envelope to Drinks on Us UK, PO Box 113, Bray, Wicklow, Eire. Quiz Starts Saturday! Unsub Stop",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message does not contain any clear indication of spam or ham content and is likely to be considered legitimate.\", \"verdict\": 1}"
+  },
+  {
+    "index": 125,
+    "message": "Great News! Call FREEFONE 08006344447 to claim your guaranteed å£1000 CASH or å£2000 gift. Speak to a live operator NOW!",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the SMS does not appear to be spam, as it is clear and unambiguous in its request for financial assistance.\", \"verdict\": 1}"
+  },
+  {
+    "index": 126,
+    "message": "Guessin you ain't gonna be here before 9?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a negative sentiment expressing uncertainty and caution. While it's not an immediate threat, it could potentially cause frustration or alarm in the recipient.\", \"verdict\": 1}"
+  },
+  {
+    "index": 127,
+    "message": "Ok.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text 'Ok' is not indicative of spam. It could be a proper response to a command or request.\", \"verdict\": 1}"
+  },
+  {
+    "index": 128,
+    "message": "Hello darling how are you today? I would love to have a chat, why dont you tell me what you look like and what you are in to sexy?",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no personal information or sexual content that could indicate spam behavior. It seems to be a straightforward inquiry about someone's appearance and interests.\", \"verdict\": 1}"
+  },
+  {
+    "index": 129,
+    "message": "Not heard from U4 a while. Call 4 rude chat private line 01223585334 to cum. Wan 2C pics of me gettin shagged then text PIX to 8552. 2End send STOP 8552 SAM xxx",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not a spam as it contains no offensive language or profanity that might indicate a legitimate user.\", \"verdict\": 1}"
+  },
+  {
+    "index": 130,
+    "message": "Jokin only lar... :-) depends on which phone my father can get lor...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message appears to be an attempt to contact a specific phone number, likely intended as spam. It lacks any positive or negative sentiment indicators.\", \"verdict\": 1}"
+  },
+  {
+    "index": 131,
+    "message": "Congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! C Suprman V, Matrix3, StarWars3, etc all 4 FREE! bx420-ip4-5we. 150pm. Dont miss out!",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content does not indicate a spam message and the sender is asking for details on a movie ticket, which could be indicative of an email with a legitimate request.\", \"verdict\": 1}"
+  },
+  {
+    "index": 132,
+    "message": "Our brand new mobile music service is now live. The free music player will arrive shortly. Just install on your phone to browse content from the top artists.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the message does not contain any spammy or harmful intentions, and it provides helpful information that might help users with their music purchases. It's best to leave them as is without taking action.\", \"verdict\": 1}"
+  },
+  {
+    "index": 133,
+    "message": "Cuz ibored. And don wanna study",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message 'Cuz ibored. And don wanna study' does not contain any words that are commonly associated with spam or a legitimate communication platform.\", \"verdict\": 1}"
+  },
+  {
+    "index": 134,
+    "message": "PRIVATE! Your 2003 Account Statement for 07815296484 shows 800 un-redeemed S.I.M. points. Call 08718738001 Identifier Code 41782 Expires 18/11/04 ",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a call number (08718738001) that is not commonly associated with the 2003 Account Statement for 07815296484, suggesting it may be spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 135,
+    "message": "Can you plz tell me the ans. BSLVYL sent via fullonsms.com",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"There is no indication of spam in the message. It appears to be a legitimate inquiry or request for information.\", \"verdict\": 1}"
+  },
+  {
+    "index": 136,
+    "message": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC: 08718720201 PO BOX 114/14 TCR/W1",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text appears to be part of a scam message, warning recipients that they need to visit a specific website to exchange money. This is not ham or legitimate content and should not be classified as such.\", \"verdict\": 1}"
+  },
+  {
+    "index": 137,
+    "message": "Oi. Ami parchi na re. Kicchu kaaj korte iccha korche na. Phone ta tul na. Plz. Plz.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"There is no clear indication of spam or ham within this SMS message, as the content appears to be normal and unremarkable. I will classify it as a ham/legitimate.\", \"verdict\": 1}"
+  },
+  {
+    "index": 138,
+    "message": "4mths half price Orange line rental & latest camera phones 4 FREE. Had your phone 11mths+? Call MobilesDirect free on 08000938767 to update now! or2stoptxt T&Cs",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text does not appear to be spam based on the content.\", \"verdict\": 1}"
+  },
+  {
+    "index": 139,
+    "message": "What * u wearing?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"This is not a message for which to classify, thus it cannot be classified.\", \"verdict\": 0}"
+  },
+  {
+    "index": 140,
+    "message": "Do have a nice day today. I love you so dearly.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message is not engaging, it lacks excitement and enthusiasm.\", \"verdict\": 0}"
+  },
+  {
+    "index": 141,
+    "message": "Shuhui say change 2 suntec steamboat? U noe where? Where r u now?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message seems to be a direct question about the status of a steamboat company, which is not typically associated with spam emails or messages.\", \"verdict\": 1}"
+  },
+  {
+    "index": 142,
+    "message": "Good morning princess! Have a great day!",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message is not clearly spammer or legitimate. It appears to be a personal greeting from someone, and the tone suggests it might be a one-time interaction. The key points are that it's in English and contains personal information (a name), so this does not fit into the binary category of spam or ham.\", \"verdict\": 0}"
+  },
+  {
+    "index": 143,
+    "message": "You have 1 new message. Call 0207-083-6089",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The provided text does not indicate whether it is spam or ham.\", \"verdict\": 0}"
+  },
+  {
+    "index": 144,
+    "message": "Your weekly Cool-Mob tones are ready to download !This weeks new Tones include: 1) Crazy Frog-AXEL F>>> 2) Akon-Lonely>>> 3) Black Eyed-Dont P >>>More info in n",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The SMS contains a link and additional information, which are typical for spam messages.\", \"verdict\": 1}"
+  },
+  {
+    "index": 145,
+    "message": "Today's Offer! Claim ur å£150 worth of discount vouchers! Text YES to 85023 now! SavaMob, member offers mobile! T Cs 08717898035. å£3.00 Sub. 16 . Unsub reply X",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a large amount of text and does not provide any specific content, making it difficult to determine if the message is spam or legitimate.\", \"verdict\": 1}"
+  },
+  {
+    "index": 146,
+    "message": "WIN a year supply of CDs 4 a store of ur choice worth å£500 & enter our å£100 Weekly draw txt MUSIC to 87066 Ts&Cs www.Ldew.com.subs16+1win150ppmx3",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains promotional offers and incentives, which are typically associated with spam. A legitimate customer would not ask for such information.\", \"verdict\": 1}"
+  },
+  {
+    "index": 147,
+    "message": "No:-)i got rumour that you going to buy apartment in chennai:-)",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a personal opinion without any specific intent, thus it can be considered as spam. The sender is expressing their personal thoughts and opinions about potential actions or purchases, which are generally associated with spam emails.\", \"verdict\": 1}"
+  },
+  {
+    "index": 148,
+    "message": "Want explicit SEX in 30 secs? Ring 02073162414 now! Costs 20p/min Gsex POBOX 2667 WC1N 3XX",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message does not contain any indications of a sexual activity or content that might indicate spam. It is more likely to be a legitimate commercial offer or call, which aligns with ham (0). However, without seeing the actual text, I am unable to determine its nature.\", \"verdict\": 1}"
+  },
+  {
+    "index": 149,
+    "message": "This message is brought to you by GMW Ltd. and is not connected to the",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"In order to classify the SMS, I need more information about it such as its content, sender's identity or nature.\", \"verdict\": 0}"
+  },
+  {
+    "index": 150,
+    "message": "Two teams waiting for some players",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains offensive and inappropriate language that suggests violence, which is not typical of a legitimate communication platform. It could be considered spam or ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 151,
+    "message": "hows my favourite person today? r u workin hard? couldn't sleep again last nite nearly rang u at 4.30",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the message does not indicate any spam or ham behavior.\", \"verdict\": 1}"
+  },
+  {
+    "index": 152,
+    "message": "Want 2 get laid tonight? Want real Dogging locations sent direct 2 ur mob? Join the UK's largest Dogging Network bt Txting GRAVEL to 69888! Nt. ec2a. 31p.msg@150p",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message appears to be a scam asking for personal information like email addresses or bank details, which is likely to result in being flagged as spam by legitimate systems. However, without any specific context about the sender and their intentions, we cannot definitively classify it as spam or ham.\", \"verdict\": 0}"
+  },
+  {
+    "index": 153,
+    "message": "YOU HAVE WON! As a valued Vodafone customer our computer has picked YOU to win a å£150 prize. To collect is easy. Just call 09061743386",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not appear to be spam or ham. It appears to be a legitimate promotional offer about a prize.\", \"verdict\": 1}"
+  },
+  {
+    "index": 154,
+    "message": "pdate_Now - Double mins and 1000 txts on Orange tariffs. Latest Motorola, SonyEricsson & Nokia & Bluetooth FREE! Call MobileUpd8 on 08000839402 or call2optout/!YHL",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message appears to be requesting services from Orange, which is not typically associated with spam. It also mentions a service called 'MobileUpd8' that does not exist and suggests using a contact number (1) instead of the official phone number. This message seems to be asking for additional services without any genuine context or intent.\", \"verdict\": 0}"
+  },
+  {
+    "index": 155,
+    "message": "WELL DONE! Your 4* Costa Del Sol Holiday or å£5000 await collection. Call 09050090044 Now toClaim. SAE, TCs, POBox334, Stockport, SK38xh, Costå£1.50/pm, Max10mins",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains irrelevant or inappropriate content.\", \"verdict\": 0}"
+  },
+  {
+    "index": 156,
+    "message": "I think your mentor is , but not 100 percent sure.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"This message seems to be part of a group chat or conversation, where the sender has multiple messages that are likely spam. Therefore, we classify it as 'spam' (1). However, without more context about the sender's relationship with the other participants in this chat, I'm unable to provide an accurate classification.\", \"verdict\": 0}"
+  },
+  {
+    "index": 157,
+    "message": "K..k..i'm also fine:)when will you complete the course?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{ \"reasoning\": \"The message contains no indication that it is spam, nor does it appear to be a legitimate course completion request. Therefore, I conclude it to be ham.\" }, {\"verdict\": 0}"
+  },
+  {
+    "index": 158,
+    "message": "Free entry in 2 a weekly comp for a chance to win an ipod. Txt POD to 80182 to get entry (std txt rate) T&C's apply 08452810073 for details 18+",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any spam elements, hence it is classified as ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 159,
+    "message": "SMS. ac JSco: Energy is high, but u may not know where 2channel it. 2day ur leadership skills r strong. Psychic? Reply ANS w/question. End? Reply END JSCO",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{{\"reasoning\": \"This is an example of a spam message, as it contains offensive and potentially harmful content.\", \"verdict\": 1}}"
+  },
+  {
+    "index": 160,
+    "message": "Wife.how she knew the time of murder exactly",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text contains no indications of distress, urgency, or a clear attempt to harm others. Such messages are usually considered spam and may not be legitimate.\", \"verdict\": 1}"
+  },
+  {
+    "index": 161,
+    "message": "Hahaha..use your brain dear",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content of the message does not appear to be spam. It seems like a joke or a play on words, and therefore could potentially be classified as ham (legitimate). However, in this case, we cannot definitively classify it as either due to its unclear nature.\", \"verdict\": 0}"
+  },
+  {
+    "index": 162,
+    "message": "WHO ARE YOU SEEING?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message 'WHO ARE YOU SEEING?' is a common query about location, and the subject matter does not seem to be associated with spam or ham messaging. However, without additional context or details from the conversation, I cannot definitively classify this as spam or ham. Therefore, my conclusion is that the verdict should remain 0.\"}"
+  },
+  {
+    "index": 163,
+    "message": "Oh yah... We never cancel leh... Haha ",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no negative language, so it is not spam. It is likely a friendly chat with an apology or a joke.\", \"verdict\": 1}"
+  },
+  {
+    "index": 164,
+    "message": "XMAS iscoming & ur awarded either å£500 CD gift vouchers & free entry 2 r å£100 weekly draw txt MUSIC to 87066 TnC www.Ldew.com1win150ppmx3age16subscription ",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content appears to be a fake email with exaggerated claims about weekly draw and cash rewards, which are typically associated with legitimate gift cards or prizes in the music industry. We classify this as spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 165,
+    "message": "Someone has conacted our dating service and entered your phone because they fancy you!To find out who it is call from landline 09111030116. PoBox12n146tf15",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"There are no obvious elements that suggest this is spam, and the message appears to be in a context about dating services and phone numbers.\", \"verdict\": 0}"
+  },
+  {
+    "index": 166,
+    "message": "Let me know how it changes in the next 6hrs. It can even be appendix but you are out of that age range. However its not impossible. So just chill and let me know in 6hrs",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message is not spam or ham; it is a request for information or updates, which can be considered legitimate and non-intrusive.\", \"verdict\": 1}"
+  },
+  {
+    "index": 167,
+    "message": "Do you want a New Nokia 3510i Colour Phone Delivered Tomorrow? With 200 FREE minutes to any mobile + 100 FREE text + FREE camcorder Reply or Call 08000930705",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains unsolicited and unwanted commercial content about purchasing a Nokia phone.\", \"verdict\": 1}"
+  },
+  {
+    "index": 168,
+    "message": "Message:some text missing* Sender:Name Missing* *Number Missing *Sent:Date missing *Missing U a lot thats y everything is missing sent via fullonsms.com",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no spam elements and the sender, number, and other details are not missing or suspicious. The sender is missing `Name` and `Number`. The content of the SMS appears to be legitimate and relevant.\", \"verdict\": 1}"
+  },
+  {
+    "index": 169,
+    "message": "18 days to Euro2004 kickoff! U will be kept informed of all the latest news and results daily. Unsubscribe send GET EURO STOP to 83222.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit spam-related content.\", \"verdict\": 1}"
+  },
+  {
+    "index": 170,
+    "message": "SMS. ac Sptv: The New Jersey Devils and the Detroit Red Wings play Ice Hockey. Correct or Incorrect? End? Reply END SPTV",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message appears to be a response to another message about hockey, but it does not contain any specific content that would indicate it is spam. Therefore, we classify this as ham (0).\"}"
+  },
+  {
+    "index": 171,
+    "message": "From next month get upto 50% More Calls 4 Ur standard network charge 2 activate Call 9061100010 C Wire3.net 1st4Terms PoBox84 M26 3UZ Cost å£1.50 min MobcudB more",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The provided SMS message does not contain any indications or clues that would suggest it is spam. It appears to be a legitimate communication with terms and conditions regarding mobile phone usage, which are usually not marked as spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 172,
+    "message": "Mila, age23, blonde, new in UK. I look sex with UK guys. if u like fun with me. Text MTALK to 69866.18 . 30pp/txt 1st 5free. å£1.50 increments. Help08718728876",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message appears to be spam (1).\", \"verdict\": 1}"
+  },
+  {
+    "index": 173,
+    "message": "Here is your discount code RP176781. To stop further messages reply stop. www.regalportfolio.co.uk. Customer Services 08717205546",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no obvious spam elements or patterns that would suggest it is a spam message.\", \"verdict\": 1}"
+  },
+  {
+    "index": 174,
+    "message": "Sir, i am waiting for your call, once free please call me.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "I'm unable to classify the given SMS message as either spam or ham. The text does not provide enough context or information to determine if it is a spam message or legitimate communication. I need more details about the sender and the intended recipient before I can make a determination."
+  },
+  {
+    "index": 175,
+    "message": "You best watch what you say cause I get drunk as a motherfucker",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This message is not a clear indication of spam or Ham/legitimate. It appears to be part of a conversation about someone's drinking problems, which could indicate something is fishy.\", \"verdict\": 1}"
+  },
+  {
+    "index": 176,
+    "message": "Yeah he got in at 2 and was v apologetic. n had fallen out and she was actin like spoilt child and he got caught up in that. Till 2! But we won't go there! Not doing too badly cheers. You? ",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This text does not appear to be spam or ham, but instead appears to be a message from someone asking for their opinion or advice.\", \"verdict\": 1}"
+  },
+  {
+    "index": 177,
+    "message": "<Forwarded from 88877>FREE entry into our å£250 weekly comp just send the word ENTER to 88877 NOW. 18 T&C www.textcomp.com",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message does not contain any spam-related keywords or patterns, and it doesn't suggest any behavior that is inconsistent with a legitimate user of the platform.\", \"verdict\": 1}"
+  },
+  {
+    "index": 178,
+    "message": "How about clothes, jewelry, and trips?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The given message 'How about clothes, jewelry, and trips?' does not contain any elements that are typical of spam messages or legitimate communications. It is more likely to be a question or statement about fashion items.\", \"verdict\": 1}"
+  },
+  {
+    "index": 179,
+    "message": "Pls give her prometazine syrup. 5mls then  &lt;#&gt; mins later feed.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains words and phrases that are not typical of a spammer or legitimate communication, such as 'plz', 'give', 'her'. It does not appear to be a promotional offer for a product or service. Therefore, it can be classified as 'ham' (0)\". \"verdict\": 1}"
+  },
+  {
+    "index": 180,
+    "message": "This is the 2nd time we have tried 2 contact u. U have won the 750 Pound prize. 2 claim is easy, call 08718726970 NOW! Only 10p per min. BT-national-rate ",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content does not clearly indicate that the message is spam or ham, as it contains a mix of claims and a call for action.\", \"verdict\": 1}"
+  },
+  {
+    "index": 181,
+    "message": "Sorry! U can not unsubscribe yet. THE MOB offer package has a min term of 54 weeks> pls resubmit request after expiry. Reply THEMOB HELP 4 more info",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content contains inappropriate and potentially spammy language, such as 'THE MOB', which is not a common or legal term.\", \"verdict\": 1}"
+  },
+  {
+    "index": 182,
+    "message": "Is there any training tomorrow?",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of the message is not spam, but it does not seem related to a valid question. Therefore, I classify it as ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 183,
+    "message": "Yes. Nigh you cant aha.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"There is no indication that the message is spam or legitimate, and it appears to be part of an automated response. Therefore, I classify it as ham (0).\"}, {\"verdict\": 0}."
+  },
+  {
+    "index": 184,
+    "message": "I dont want to hear philosophy. Just say what happen",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text appears to be a comment about avoiding certain topics.\", \"verdict\": 0}"
+  },
+  {
+    "index": 185,
+    "message": "Can you call me plz. Your number shows out of coveragd area. I have urgnt call in vasai &amp; have to reach before 4'o clock so call me plz",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"This SMS message is not spam or ham, it appears to be a normal communication about needing to make an urgent call. It does not contain any words that would typically indicate the sender's intent.\", \"verdict\": 1}"
+  },
+  {
+    "index": 186,
+    "message": "WINNER!! As a valued network customer you have been selected to receivea å£900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text does not contain any information that might suggest spam or ham; it appears to be a legitimate offer for a prize.\", \"verdict\": 0}"
+  },
+  {
+    "index": 187,
+    "message": "Aiyah e rain like quite big leh. If drizzling i can at least run home.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "The classification is incorrect as the message does not contain any evidence of spam characteristics, making it impossible to classify this SMS as spam (1) or ham/legitimate (0)."
+  },
+  {
+    "index": 188,
+    "message": "XMAS Prize draws! We are trying to contact U. Todays draw shows that you have won a å£2000 prize GUARANTEED. Call 09058094565 from land line. Valid 12hrs only",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text contains no identifiable spam elements or patterns that would indicate it is a legitimate message, and the provided data indicates it should be classified as ham.\", \"verdict\": 1}"
+  },
+  {
+    "index": 189,
+    "message": "Sunshine Quiz! Win a super Sony DVD recorder if you canname the capital of Australia? Text MQUIZ to 82277. B",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message is not spam as it contains no content that would be harmful or illegal, and there are no obvious signs of bot activity.\", \"verdict\": 1}"
+  },
+  {
+    "index": 190,
+    "message": "My fri ah... Okie lor,goin 4 my drivin den go shoppin after tt...",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message appears to be a response from a friend requesting someone to leave the conversation or check their location, which is not typical for an SMS. This suggests it might be spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 191,
+    "message": "IM GONNAMISSU SO MUCH!!I WOULD SAY IL SEND U A POSTCARD BUTTHERES ABOUTAS MUCH CHANCE OF MEREMEMBERIN ASTHERE IS OFSI NOT BREAKIN HIS CONTRACT!! LUV Yaxx",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content does not appear to be spam or ham, but it seems to have a negative tone. It may indicate disagreement about the contract.\", \"verdict\": 1}"
+  },
+  {
+    "index": 192,
+    "message": "Hey I am really horny want to chat or see me naked text hot to 69698 text charged at 150pm to unsubscribe text stop 69698",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The content is not clear and does not contain any indication of spam, which means the verdict should be 0. However, if there were a specific context or pattern in the message that might suggest it's spam (such as repeated messages about seeing someone naked or seeking sexual activity), then it could be classified as spam. Without this information, I cannot definitively classify it as either spam or ham.\", \"verdict\": 0}"
+  },
+  {
+    "index": 193,
+    "message": "Yeah there's barely enough room for the two of us, x has too many fucking shoes. Sorry man, see you later",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The content of this SMS is offensive and contains vulgar language.\", \"verdict\": 1}"
+  },
+  {
+    "index": 194,
+    "message": "REMINDER FROM O2: To get 2.50 pounds free call credit and details of great offers pls reply 2 this text with your valid name, house no and postcode",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains no explicit spam-related terms or requests for specific information. It appears to be a standard reminder from O2.\", \"verdict\": 1}"
+  },
+  {
+    "index": 195,
+    "message": "Wen ur lovable bcums angry wid u, dnt take it seriously.. Coz being angry is d most childish n true way of showing deep affection, care n luv!.. kettoda manda... Have nice day da.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The text does not contain any explicit or implicit content that would typically classify it as spam. Instead, the message appears to be a direct critique of anger and assertiveness in relationships.\", \"verdict\": 1}"
+  },
+  {
+    "index": 196,
+    "message": "Your next amazing xxx PICSFREE1 video will be sent to you enjoy! If one vid is not enough for 2day text back the keyword PICSFREE1 to get the next video.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains a link to an unwanted resource (PICSFREE1) and appears to be trying to trick recipients into clicking on it.\", \"verdict\": 1}"
+  },
+  {
+    "index": 197,
+    "message": "Urgent UR awarded a complimentary trip to EuroDisinc Trav, Aco&Entry41 Or å£1000. To claim txt DIS to 87121 18+6*å£1.50(moreFrmMob. ShrAcomOrSglSuplt)10, LS1 3AJ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message appears to be spam and contains an offer for a free trip, which is not typical for tourist destinations.\", \"verdict\": 0}"
+  },
+  {
+    "index": 198,
+    "message": "Very hurting n meaningful lines ever: \\I compromised everything for my love",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"The message contains offensive and derogatory language that does not align with a valid communication platform's content policy. As such, it can be classified as spam.\", \"verdict\": 1}"
+  },
+  {
+    "index": 199,
+    "message": "Wait  &lt;#&gt;  min..",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains a link to a web page, which is generally considered spam. However, since it's just a link and not attempting to trigger an action or steal personal information from the recipient, we'll classify it as 'ham'. The verdict remains 0.\", \"verdict\": 0}"
+  }
+]

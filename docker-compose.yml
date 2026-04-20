@@ -1,0 +1,22 @@
+services:
+  llm-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nlp-lr2-llm
+    ports:
+      - "8000:8000"
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 120s
+
+volumes:
+  ollama_models:
+    driver: local

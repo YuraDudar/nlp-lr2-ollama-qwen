@@ -1,0 +1,9 @@
+{
+  "technique": "zero_shot",
+  "accuracy": 0.49,
+  "precision": 0.493,
+  "recall": 0.7,
+  "f1": 0.5785,
+  "n_total": 200,
+  "n_parse_fail": 2
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "index": 0,
+    "message": "Call Germany for only 1 pence per minute! Call from a fixed line via access number 0844 861 85 85. No prepayment. Direct access! www.telediscount.co.uk",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no suspicious elements\", \"verdict\": 0}"
+  },
+  {
+    "index": 1,
+    "message": "You will recieve your tone within the next 24hrs. For Terms and conditions please see Channel U Teletext Pg 750",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 2,
+    "message": "Your B4U voucher w/c 27/03 is MARSMS. Log onto www.B4Utele.com for discount credit. To opt out reply stop. Customer care call 08717168528",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 3,
+    "message": "Try to do something dear. You read something for exams",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is a personal recommendation and does not contain any spam indicators, therefore it should be classified as normal.\",\n  \"verdict\": 0\n}"
+  },
+  {
+    "index": 4,
+    "message": "Lol for real. She told my dad I have cancer",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 5,
+    "message": "Sorry i now then c ur msg... Yar lor so poor thing... But only 4 one night... Tmr u'll have a brand new room 2 sleep in...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"No spam indicators\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 6,
+    "message": "Promotion Number: 8714714 - UR awarded a City Break and could WIN a å£200 Summer Shopping spree every WK. Txt STORE to 88039 . SkilGme. TsCs087147403231Winawk!Age16 å£1.50perWKsub",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\n  \"reasoning\": \"The message contains details of a promotion, such as the number and amount to win, but lacks context or urgency.\",\n  \"verdict\": 0\n}"
+  },
+  {
+    "index": 7,
+    "message": "We are pleased to inform that your application for Airtel Broadband is processed successfully. Your installation will happen within 3 days.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"normal business communication, no suspicious elements\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 8,
+    "message": "NEFT Transaction with reference number  &lt;#&gt;  for Rs. &lt;DECIMAL&gt;  has been credited to the beneficiary account on  &lt;#&gt;  at  &lt;TIME&gt; : &lt;#&gt;",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No specific context or information provided, likely a routine transfer\", \"verdict\": 0}"
+  },
+  {
+    "index": 9,
+    "message": "UpgrdCentre Orange customer, you may now claim your FREE CAMERA PHONE upgrade for your loyalty. Call now on 0207 153 9153. Offer ends 26th July. T&C's apply. Opt-out available",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 10,
+    "message": "This is the 2nd time we have tried to contact u. U have won the å£1450 prize to claim just call 09053750005 b4 310303. T&Cs/stop SMS 08718725756. 140ppm",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 11,
+    "message": "Hi hope u get this txt~journey hasnt been gd,now about 50 mins late I think.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The text is urgent and the sender wants a response immediately\", \"verdict\": 0}"
+  },
+  {
+    "index": 12,
+    "message": "When are you guys leaving?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is asking for a date, not an answer and does not contain any spam-related information\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 13,
+    "message": "Get a brand new mobile phone by being an agent of The Mob! Plus loads more goodies! For more info just text MAT to 87021.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam detected\", \"verdict\": 0}"
+  },
+  {
+    "index": 14,
+    "message": "Haha, that was the first person I was gonna ask",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Slight informal remark\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 15,
+    "message": "No no. I will check all rooms befor activities",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No direct information in response, but seems like an indirect message\", \"verdict\": 0}"
+  },
+  {
+    "index": 16,
+    "message": "FREE for 1st week! No1 Nokia tone 4 ur mobile every week just txt NOKIA to 8077 Get txting and tell ur mates. www.getzed.co.uk POBox 36504 W45WQ 16+ norm150p/tone",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 17,
+    "message": "Oh did you charge camera",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicator\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 18,
+    "message": "Valentines Day Special! Win over å£1000 in our quiz and take your partner on the trip of a lifetime! Send GO to 83600 now. 150p/msg rcvd. CustCare:08718720201.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"No spam indicator\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 19,
+    "message": "LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 20,
+    "message": "Yes there were many sweets",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The text is asking for help, which can be interpreted as spam.\",\n  \"verdict\": 1\n}\n```"
+  },
+  {
+    "index": 21,
+    "message": "Congrats! 2 mobile 3G Videophones R yours. call 09061744553 now! videochat wid ur mates, play java games, Dload polyH music, noline rentl. bx420. ip4. 5we. 150pm",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 22,
+    "message": "here is my new address -apples&pairs&all that malarky",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\n  \"reasoning\": \"address inquiry + all caps urgency = spam\",\n  \"verdict\": 1\n}\n```"
+  },
+  {
+    "index": 23,
+    "message": "WIN URGENT! Your mobile number has been awarded with a å£2000 prize GUARANTEED call 09061790121 from land line. claim 3030 valid 12hrs only 150ppm ",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "```json\n{\"reasoning\": \"Winning a prize in a competition + urgency = spam\", \"verdict\": 1}\n```"
+  },
+  {
+    "index": 24,
+    "message": "Loan for any purpose å£500 - å£75,000. Homeowners + Tenants welcome. Have you been previously refused? We can still help. Call Free 0800 1956669 or text back 'help'",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 25,
+    "message": "URGENT! You have won a 1 week FREE membership in our å£100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010 T&C www.dbuk.net LCCLTD POBOX 4403LDNW1A7RW18",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Urgency + personal number reference + fraudulent message\", \"verdict\": 0}"
+  },
+  {
+    "index": 26,
+    "message": "Guess what! Somebody you know secretly fancies you! Wanna find out who it is? Give us a call on 09065394514 From Landline DATEBox1282EssexCM61XN 150p/min 18",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 27,
+    "message": "Great News! Call FREEFONE 08006344447 to claim your guaranteed å£1000 CASH or å£2000 gift. Speak to a live operator NOW!",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 28,
+    "message": "As in different styles?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"message in simple terms\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 29,
+    "message": "Hey chief, can you give me a bell when you get this. Need to talk to you about this royal visit on the 1st june. ",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 30,
+    "message": "sports fans - get the latest sports news str* 2 ur mobile 1 wk FREE PLUS a FREE TONE Txt SPORT ON to 8007 www.getzed.co.uk 0870141701216+ norm 4txt/120p ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 31,
+    "message": "I don't know u and u don't know me. Send CHAT to 86688 now and let's find each other! Only 150p/Msg rcvd. HG/Suite342/2Lands/Row/W1J6HL LDN. 18 years or over.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no obvious spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 32,
+    "message": "SMS AUCTION - A BRAND NEW Nokia 7250 is up 4 auction today! Auction is FREE 2 join & take part! Txt NOKIA to 86021 now! HG/Suite342/2Lands Row/W1J6HL",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Urgent competition + shortened chat number = spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 33,
+    "message": "You are guaranteed the latest Nokia Phone, a 40GB iPod MP3 player or a å£500 prize! Txt word: COLLECT to No: 83355! IBHltd LdnW15H 150p/Mtmsgrcvd18+",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"phone number, no spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 34,
+    "message": "Jus finish bathing...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"no spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 35,
+    "message": "MAYBE IF YOU WOKE UP BEFORE FUCKING 3 THIS WOULDN'T BE A PROBLEM.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No suspicious elements found in the message.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 36,
+    "message": "Yes:)sura in sun tv.:)lol.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Sarcasm message\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 37,
+    "message": "You didn't have to tell me that...now i'm thinking. Plus he's going to stop all your runs",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Spam due to repeated questions without a response\", \"verdict\": 1}"
+  },
+  {
+    "index": 38,
+    "message": "I love u 2 my little pocy bell I am sorry but I love u",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No indication of spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 39,
+    "message": "Bought one ringtone and now getting texts costing 3 pound offering more tones etc",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"suspicious elements present\", \"verdict\": 0}"
+  },
+  {
+    "index": 40,
+    "message": "URGENT! Your Mobile number has been awarded with a å£2000 prize GUARANTEED. Call 09058094455 from land line. Claim 3030. Valid 12hrs only",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "```json\n{\"reasoning\": \"Urgent information\", \"verdict\": 1}\n```"
+  },
+  {
+    "index": 41,
+    "message": "Watching telugu movie..wat abt u?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is a personal reminder and does not contain any spam indicators, so it should be classified as 'HAM'\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 42,
+    "message": "Congratulations! Thanks to a good friend U have WON the å£2,000 Xmas prize. 2 claim is easy, just call 08718726971 NOW! Only 10p per minute. BT-national-rate.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Normal congratulations message\", \"verdict\": 0}"
+  },
+  {
+    "index": 43,
+    "message": "PRIVATE! Your 2003 Account Statement for shows 800 un-redeemed S. I. M. points. Call 08715203652 Identifier Code: 42810 Expires 29/10/0",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No suspicious elements found\", \"verdict\": 0}"
+  },
+  {
+    "index": 44,
+    "message": "I AM AT A PARTY WITH ALEX NICHOLS",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Person calling alexnichols and the call is at a party\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 45,
+    "message": "Thats cool! Sometimes slow and gentle. Sonetimes rough and hard :)",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"text description\", \"verdict\": 0}"
+  },
+  {
+    "index": 46,
+    "message": "Eerie Nokia tones 4u, rply TONE TITLE to 8007 eg TONE DRACULA to 8007 Titles: GHOST, ADDAMSFA, MUNSTERS, EXORCIST, TWILIGHT www.getzed.co.uk POBox36504W45WQ 150p",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Not spam\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 47,
+    "message": "ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O å£250 3 WANT å£800",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 48,
+    "message": "Its too late:)but its k.wish you the same.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Spam message\",\n  \"verdict\": 1\n}\n```"
+  },
+  {
+    "index": 49,
+    "message": "Want explicit SEX in 30 secs? Ring 02073162414 now! Costs 20p/min",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\n  \"reasoning\": \"The text contains explicit content, making it a spam message.\",\n  \"verdict\": 1\n}"
+  },
+  {
+    "index": 50,
+    "message": "The sign of maturity is not when we start saying big things.. But actually it is, when we start understanding small things... *HAVE A NICE EVENING* BSLVYL",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 51,
+    "message": "Whos this am in class:-)",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is not spam\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 52,
+    "message": "You can stop further club tones by replying \\STOP MIX\\\" See my-tone.com/enjoy. html for terms. Club tones cost GBP4.50/week. MFL",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"no suspicious elements found\", \"verdict\": 1}"
+  },
+  {
+    "index": 53,
+    "message": "No need lar i go engin? Cos my sis at arts today...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n\"reasoning\": \"The text does not appear to contain any spam elements, but it appears the user is making a personal statement regarding their friend's status. The verification code for the friend may have been missed in this SMS.\",\n\"verdict\": 0}\n```"
+  },
+  {
+    "index": 54,
+    "message": "Haha... Where got so fast lose weight, thk muz go 4 a month den got effect... Gee,later we go aust put bk e weight.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"\", \"verdict\": 0}"
+  },
+  {
+    "index": 55,
+    "message": "I don't know u and u don't know me. Send CHAT to 86688 now and let's find each other! Only 150p/Msg rcvd. HG/Suite342/2Lands/Row/W1J6HL LDN. 18 years or over.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"unknown user\", \"verdict\": 0}"
+  },
+  {
+    "index": 56,
+    "message": "U wake up already? Wat u doing? U picking us up later rite? I'm taking sq825, reaching ard 7 smth 8 like dat. U can check e arrival time. C ya soon...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Normal personal message\", \"verdict\": 0}"
+  },
+  {
+    "index": 57,
+    "message": "it to 80488. Your 500 free text messages are valid until 31 December 2005.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message is asking for a phone number, which could indicate phishing or spamming, so the verdict is 0.\", \"verdict\": 0}"
+  },
+  {
+    "index": 58,
+    "message": "Oh wow thats gay. Will firmware update help",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 59,
+    "message": "You have an important customer service announcement from PREMIER.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\n    \"reasoning\": \"Not spam\",\n    \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 60,
+    "message": "Webpage s not available!",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is asking for a webpage, which can be considered a request for information. This is generally seen as spam.\",\n  \"verdict\": 0\n}```"
+  },
+  {
+    "index": 61,
+    "message": "PRIVATE! Your 2003 Account Statement for 07753741225 shows 800 un-redeemed S. I. M. points. Call 08715203677 Identifier Code: 42478 Expires 24/10/04",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Contains a personal statement and a reference number\", \"verdict\": 0}"
+  },
+  {
+    "index": 62,
+    "message": "Hi babe its Jordan, how r u? Im home from abroad and lonely, text me back if u wanna chat xxSP visionsms.com Text stop to stopCost 150p 08712400603",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Personal message\", \"verdict\": 0}"
+  },
+  {
+    "index": 63,
+    "message": "Free Msg: get Gnarls Barkleys \\Crazy\\\" ringtone TOTALLY FREE just reply GO to this message right now!\"",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicator\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 64,
+    "message": "You have won ?1,000 cash or a ?2,000 prize! To claim, call09050000327",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 65,
+    "message": "Convey my regards to him",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message contains personal information and no suspicious elements.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 66,
+    "message": "HOT LIVE FANTASIES call now 08707500020 Just 20p per min NTT Ltd, PO Box 1327 Croydon CR9 5WB 0870 is a national rate call",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 67,
+    "message": "You have registered Sinco as Payee. Log in at icicibank.com and enter URN  &lt;#&gt;  to confirm. Beware of frauds. Do NOT share or disclose URN to anyone.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No specific context provided\", \"verdict\": 0}"
+  },
+  {
+    "index": 68,
+    "message": "Dear 0776xxxxxxx U've been invited to XCHAT. This is our final attempt to contact u! Txt CHAT to 86688 150p/MsgrcvdHG/Suite342/2Lands/Row/W1J6HL LDN 18yrs ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"unspecified\", \"verdict\": 0}"
+  },
+  {
+    "index": 69,
+    "message": "Were trying to find a Chinese food place around here",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The content does not contain any explicit or suspicious elements related to the location, time, or person's personal information\",\n  \"verdict\": 0\n}"
+  },
+  {
+    "index": 70,
+    "message": "Valentines Day Special! Win over å£1000 in our quiz and take your partner on the trip of a lifetime! Send GO to 83600 now. 150p/msg rcvd. CustCare:08718720201",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 71,
+    "message": "I'm going 2 orchard now laready me reaching soon. U reaching?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 72,
+    "message": "Hey come online! Use msn... We are all there",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"SMS message that is not spam, just a normal request to join a group\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 73,
+    "message": "URGENT! Your Mobile number has been awarded with a å£2000 Bonus Caller Prize. Call 09058095201 from land line. Valid 12hrs only",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 74,
+    "message": "Well, I have to leave for my class babe ... You never came back to me ... :-( ... Hope you have a nice sleep, my love",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\"reasoning\": \"text message with strong negative emotions and personal insults\", \"verdict\": 1}\n```"
+  },
+  {
+    "index": 75,
+    "message": "I got a call from a landline number. . . I am asked to come to anna nagar . . . I will go in the afternoon",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\n    \"reasoning\": \"No spam indicators\",\n    \"verdict\": 0\n}"
+  },
+  {
+    "index": 76,
+    "message": "Enjoy the jamster videosound gold club with your credits for 2 new videosounds+2 logos+musicnews! get more fun from jamster.co.uk! 16+only Help? call: 09701213186 ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"short and direct message\", \"verdict\": 0}"
+  },
+  {
+    "index": 77,
+    "message": "I'm really sorry I lit your hair on fire",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Personal complaint\", \"verdict\": 0}"
+  },
+  {
+    "index": 78,
+    "message": "I am late,so call you tomorrow morning.take care sweet dreams....u and me...ummifying...bye.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Sarcasm in message body\", \"verdict\": 0}"
+  },
+  {
+    "index": 79,
+    "message": "Hmm well, night night ",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicator present\", \"verdict\": 0}"
+  },
+  {
+    "index": 80,
+    "message": "Get ur 1st RINGTONE FREE NOW! Reply to this msg with TONE. Gr8 TOP 20 tones to your phone every week just å£1.50 per wk 2 opt out send STOP 08452810071 16",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Urgent\", \"verdict\": 1}"
+  },
+  {
+    "index": 81,
+    "message": "ou are guaranteed the latest Nokia Phone, a 40GB iPod MP3 player or a å£500 prize! Txt word: COLLECT to No: 83355! IBHltd LdnW15H 150p/Mtmsgrcvd18",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 82,
+    "message": "Send a logo 2 ur lover - 2 names joined by a heart. Txt LOVE NAME1 NAME2 MOBNO eg LOVE ADAM EVE 07123456789 to 87077 Yahoo! POBox36504W45WQ TxtNO 4 no ads 150p.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 83,
+    "message": "I have printed it oh. So  &lt;#&gt;  come upstairs",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no suspicious elements detected\", \"verdict\": 0}"
+  },
+  {
+    "index": 84,
+    "message": "Also hi wesley how've you been",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message is not spam, it's a normal greeting.\", \"verdict\": 0}"
+  },
+  {
+    "index": 85,
+    "message": "Get your garden ready for summer with a FREE selection of summer bulbs and seeds worth å£33:50 only with The Scotsman this Saturday. To stop go2 notxt.co.uk",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 86,
+    "message": "Well welp is sort of a semiobscure internet thing",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Invalid message type\", \"verdict\": 0}"
+  },
+  {
+    "index": 87,
+    "message": "Orange brings you ringtones from all time Chart Heroes, with a free hit each week! Go to Ringtones & Pics on wap. To stop receiving these tips reply STOP.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 88,
+    "message": "Of cos can lar i'm not so ba dao ok... 1 pm lor... Y u never ask where we go ah... I said u would ask on fri but he said u will ask today...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message is made up and contains no personal information.\", \"verdict\": 0}"
+  },
+  {
+    "index": 89,
+    "message": "todays vodafone numbers ending with 0089(my last four digits) are selected to received a å£350 award. If your number matches please call 09063442151 to claim your å£350 award",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No suspicious elements\", \"verdict\": 0}"
+  },
+  {
+    "index": 90,
+    "message": "Urgent! Please call 09066612661 from your landline, your complimentary 4* Lux Costa Del Sol holiday or å£1000 CASH await collection. ppm 150 SAE T&Cs James 28, EH74RR",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Urgency + personal number + T&C clause = spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 91,
+    "message": "i am seeking a lady in the street and a freak in the sheets. Is that you?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"personalizing query\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 92,
+    "message": "U r too much close to my heart. If u go away i will be shattered. Plz stay with me.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"This is a direct and personal message, no spam indicators.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 93,
+    "message": "Hi 07734396839 IBH Customer Loyalty Offer: The NEW NOKIA6600 Mobile from ONLY å£10 at TXTAUCTION!Txt word:START to No:81151 & get Yours Now!4T&",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 94,
+    "message": "Urgent Urgent! We have 800 FREE flights to Europe to give away, call B4 10th Sept & take a friend 4 FREE. Call now to claim on 09050000555. BA128NNFWFLY150ppm",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Urgency + multiple options + personal number reference = spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 95,
+    "message": "The beauty of life is in next second.. which hides thousands of secrets. I wish every second will be wonderful in ur life...!! gud n8",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"No suspicious elements found.\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 96,
+    "message": "Get ready for  &lt;#&gt;  inches of pleasure...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No suspicious elements found, no spam indicator\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 97,
+    "message": "For ur chance to win a å£250 cash every wk TXT: ACTION to 80608. T's&C's www.movietrivia.tv custcare 08712405022, 1x150p/wk",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 98,
+    "message": "U've been selected to stay in 1 of 250 top British hotels - FOR NOTHING! Holiday valued at å£350! Dial 08712300220 to claim - National Rate Call. Bx526, SW73SS",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Urgent call with false information\", \"verdict\": 1}"
+  },
+  {
+    "index": 99,
+    "message": "Another month. I need chocolate weed and alcohol.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no relevant information that may indicate it is spam.\", \"verdict\": 0}"
+  },
+  {
+    "index": 100,
+    "message": "Last Chance! Claim ur å£150 worth of discount vouchers today! Text SHOP to 85023 now! SavaMob, offers mobile! T Cs SavaMob POBOX84, M263UZ. å£3.00 Sub. 16",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Sends a promotional offer in a casual and humorous manner\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 101,
+    "message": "FREE entry into our å£250 weekly comp just send the word WIN to 80086 NOW. 18 T&C www.txttowin.co.uk",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 102,
+    "message": "K then 2marrow are you coming to class.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Message is not spam based on content, just brief explanation.\", \"verdict\": 0}"
+  },
+  {
+    "index": 103,
+    "message": "Oh thats late! Well have a good night and i will give u a call tomorrow. Iam now going to go to sleep night night",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"This message is not spam, it is just a simple goodbye.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 104,
+    "message": "Sorry about that this is my mates phone and i didnt write it love Kate",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"This message contains no spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 105,
+    "message": "No, I was trying it all weekend ;V",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No response received by email\", \"verdict\": 0}"
+  },
+  {
+    "index": 106,
+    "message": "You have WON a guaranteed å£1000 cash or a å£2000 prize.To claim yr prize call our customer service representative on",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 107,
+    "message": "09066362231 URGENT! Your mobile No 07xxxxxxxxx won a å£2,000 bonus caller prize on 02/06/03! this is the 2nd attempt to reach YOU! call 09066362231 ASAP!",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no personal or urgent information\", \"verdict\": 0}"
+  },
+  {
+    "index": 108,
+    "message": "Storming msg: Wen u lift d phne, u say \\HELLO\\\" Do u knw wt is d real meaning of HELLO?? . . . It's d name of a girl..! . . . Yes.. And u knw who is dat girl?? \\\"Margaret Hello\\\" She is d girlfrnd f Grahmbell who invnted telphone... . . . . Moral:One can 4get d name of a person",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"The message contains no spam indicators or sarcasm\", \"verdict\": 0}"
+  },
+  {
+    "index": 109,
+    "message": "Let me know when you've got the money so carlos can make the call",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message seems to be about scheduling a call and has no spam indicators, but it could be part of a scam.\",\n  \"verdict\": 0\n}"
+  },
+  {
+    "index": 110,
+    "message": "My love ... I hope your not doing anything drastic. Don't you dare sell your pc or your phone ...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 111,
+    "message": "Summers finally here! Fancy a chat or flirt with sexy singles in yr area? To get MATCHED up just reply SUMMER now. Free 2 Join. OptOut txt STOP Help08714742804",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 112,
+    "message": "Thank you baby! I cant wait to taste the real thing...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is a simple thank you, which is a common and normal experience.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 113,
+    "message": "They can try! They can get lost, in fact. Tee hee",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"text message with negative content and no urgency\", \"verdict\": 0}"
+  },
+  {
+    "index": 114,
+    "message": "Get your garden ready for summer with a FREE selection of summer bulbs and seeds worth å£33:50 only with The Scotsman this Saturday. To stop go2 notxt.co.uk",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 115,
+    "message": "My Parents, My Kidz, My Friends n My Colleagues. All screaming.. SURPRISE !! and I was waiting on the sofa.. ... ..... ' NAKED...!",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"Sick or hurt messages with threatening language\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 116,
+    "message": "As a valued customer, I am pleased to advise you that following recent review of your Mob No. you are awarded with a å£1500 Bonus Prize, call 09066364589",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 117,
+    "message": "Bloomberg -Message center +447797706009 Why wait? Apply for your future http://careers. bloomberg.com",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Not related to spam\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 118,
+    "message": "Its a part of checking IQ",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is attempting to trick you into thinking it's an iq test.\",\n  \"verdict\": 1\n}\n```"
+  },
+  {
+    "index": 119,
+    "message": "You are being ripped off! Get your mobile content from www.clubmoby.com call 08717509990 poly/true/Pix/Ringtones/Games six downloads for only 3",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 120,
+    "message": "500 New Mobiles from 2004, MUST GO! Txt: NOKIA to No: 89545 & collect yours today!From ONLY å£1 www.4-tc.biz 2optout 087187262701.50gbp/mtmsg18",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Urgent and personal message with additional numbers, no spam indicators\", \"verdict\": 1}"
+  },
+  {
+    "index": 121,
+    "message": "I HAVE A DATE ON SUNDAY WITH WILL!!",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"text of personal invitation to a date with someone in the same location\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 122,
+    "message": "Where's mummy's boy ? Is he being good or bad ? Is he being positive or negative ? Why is mummy being made to wait? Hmmmm?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"\", \"verdict\": 0}"
+  },
+  {
+    "index": 123,
+    "message": "WHITE FUDGE OREOS ARE IN STORES",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicators detected\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 124,
+    "message": "Sunshine Hols. To claim ur med holiday send a stamped self address envelope to Drinks on Us UK, PO Box 113, Bray, Wicklow, Eire. Quiz Starts Saturday! Unsub Stop",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"No clues or indicators found\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 125,
+    "message": "Great News! Call FREEFONE 08006344447 to claim your guaranteed å£1000 CASH or å£2000 gift. Speak to a live operator NOW!",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 126,
+    "message": "Guessin you ain't gonna be here before 9?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Sarcasm query + no suspicious elements\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 127,
+    "message": "Ok.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Normal conversation between users\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 128,
+    "message": "Hello darling how are you today? I would love to have a chat, why dont you tell me what you look like and what you are in to sexy?",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"text message contains no spam\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 129,
+    "message": "Not heard from U4 a while. Call 4 rude chat private line 01223585334 to cum. Wan 2C pics of me gettin shagged then text PIX to 8552. 2End send STOP 8552 SAM xxx",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Spam message\", \"verdict\": 1}"
+  },
+  {
+    "index": 130,
+    "message": "Jokin only lar... :-) depends on which phone my father can get lor...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 131,
+    "message": "Congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! C Suprman V, Matrix3, StarWars3, etc all 4 FREE! bx420-ip4-5we. 150pm. Dont miss out!",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"text message claiming prizes\", \"verdict\": 1}"
+  },
+  {
+    "index": 132,
+    "message": "Our brand new mobile music service is now live. The free music player will arrive shortly. Just install on your phone to browse content from the top artists.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\n    \"reasoning\": \"No spam indicators found\",\n    \"verdict\": 0\n}"
+  },
+  {
+    "index": 133,
+    "message": "Cuz ibored. And don wanna study",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Spam\",\n  \"verdict\": 1\n}\n```"
+  },
+  {
+    "index": 134,
+    "message": "PRIVATE! Your 2003 Account Statement for 07815296484 shows 800 un-redeemed S.I.M. points. Call 08718738001 Identifier Code 41782 Expires 18/11/04 ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Short, brief message with no obvious spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 135,
+    "message": "Can you plz tell me the ans. BSLVYL sent via fullonsms.com",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No suspicious elements in message\", \"verdict\": 0}"
+  },
+  {
+    "index": 136,
+    "message": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC: 08718720201 PO BOX 114/14 TCR/W1",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"personal message with no suspicious elements\", \"verdict\": 0}"
+  },
+  {
+    "index": 137,
+    "message": "Oi. Ami parchi na re. Kicchu kaaj korte iccha korche na. Phone ta tul na. Plz. Plz.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 138,
+    "message": "4mths half price Orange line rental & latest camera phones 4 FREE. Had your phone 11mths+? Call MobilesDirect free on 08000938767 to update now! or2stoptxt T&Cs",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no suspicious elements found\", \"verdict\": 0}"
+  },
+  {
+    "index": 139,
+    "message": "What * u wearing?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No obvious spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 140,
+    "message": "Do have a nice day today. I love you so dearly.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicator\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 141,
+    "message": "Shuhui say change 2 suntec steamboat? U noe where? Where r u now?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message seems to be a prank asking someone to contact 'suntecsteamboat' on behalf of 'shuhui', which is not a legitimate or expected response.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 142,
+    "message": "Good morning princess! Have a great day!",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 143,
+    "message": "You have 1 new message. Call 0207-083-6089",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Text messages are not spam, as they contain no explicit promotional elements.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 144,
+    "message": "Your weekly Cool-Mob tones are ready to download !This weeks new Tones include: 1) Crazy Frog-AXEL F>>> 2) Akon-Lonely>>> 3) Black Eyed-Dont P >>>More info in n",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 145,
+    "message": "Today's Offer! Claim ur å£150 worth of discount vouchers! Text YES to 85023 now! SavaMob, member offers mobile! T Cs 08717898035. å£3.00 Sub. 16 . Unsub reply X",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 146,
+    "message": "WIN a year supply of CDs 4 a store of ur choice worth å£500 & enter our å£100 Weekly draw txt MUSIC to 87066 Ts&Cs www.Ldew.com.subs16+1win150ppmx3",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Shortcode + personal number reference + context = spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 147,
+    "message": "No:-)i got rumour that you going to buy apartment in chennai:-)",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No clear meaning of the message, no spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 148,
+    "message": "Want explicit SEX in 30 secs? Ring 02073162414 now! Costs 20p/min Gsex POBOX 2667 WC1N 3XX",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Solicited messages\", \"verdict\": 0}"
+  },
+  {
+    "index": 149,
+    "message": "This message is brought to you by GMW Ltd. and is not connected to the",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"not related to spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 150,
+    "message": "Two teams waiting for some players",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Player information + team name = spam\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 151,
+    "message": "hows my favourite person today? r u workin hard? couldn't sleep again last nite nearly rang u at 4.30",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"text messages about personal information and scheduling, no spam indicators\", \"verdict\": 1}"
+  },
+  {
+    "index": 152,
+    "message": "Want 2 get laid tonight? Want real Dogging locations sent direct 2 ur mob? Join the UK's largest Dogging Network bt Txting GRAVEL to 69888! Nt. ec2a. 31p.msg@150p",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 153,
+    "message": "YOU HAVE WON! As a valued Vodafone customer our computer has picked YOU to win a å£150 prize. To collect is easy. Just call 09061743386",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 154,
+    "message": "pdate_Now - Double mins and 1000 txts on Orange tariffs. Latest Motorola, SonyEricsson & Nokia & Bluetooth FREE! Call MobileUpd8 on 08000839402 or call2optout/!YHL",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 155,
+    "message": "WELL DONE! Your 4* Costa Del Sol Holiday or å£5000 await collection. Call 09050090044 Now toClaim. SAE, TCs, POBox334, Stockport, SK38xh, Costå£1.50/pm, Max10mins",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No suspicious elements found\", \"verdict\": 0}"
+  },
+  {
+    "index": 156,
+    "message": "I think your mentor is , but not 100 percent sure.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 157,
+    "message": "K..k..i'm also fine:)when will you complete the course?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No suspicious elements detected in the message.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 158,
+    "message": "Free entry in 2 a weekly comp for a chance to win an ipod. Txt POD to 80182 to get entry (std txt rate) T&C's apply 08452810073 for details 18+",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no suspicious elements\", \"verdict\": 0}"
+  },
+  {
+    "index": 159,
+    "message": "SMS. ac JSco: Energy is high, but u may not know where 2channel it. 2day ur leadership skills r strong. Psychic? Reply ANS w/question. End? Reply END JSCO",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"personal message\", \"verdict\": 0}"
+  },
+  {
+    "index": 160,
+    "message": "Wife.how she knew the time of murder exactly",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"no spam indicator\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 161,
+    "message": "Hahaha..use your brain dear",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"text message with some humorous content\", \"verdict\": 0}"
+  },
+  {
+    "index": 162,
+    "message": "WHO ARE YOU SEEING?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"User is asking for information, no spam.\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 163,
+    "message": "Oh yah... We never cancel leh... Haha ",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Text message with emojis and a smiley face, indicating the presence of humor or sarcasm\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 164,
+    "message": "XMAS iscoming & ur awarded either å£500 CD gift vouchers & free entry 2 r å£100 weekly draw txt MUSIC to 87066 TnC www.Ldew.com1win150ppmx3age16subscription ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 165,
+    "message": "Someone has conacted our dating service and entered your phone because they fancy you!To find out who it is call from landline 09111030116. PoBox12n146tf15",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"This message contains a personal contact number\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 166,
+    "message": "Let me know how it changes in the next 6hrs. It can even be appendix but you are out of that age range. However its not impossible. So just chill and let me know in 6hrs",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\"reasoning\": \"Spam message with a personal last name\", \"verdict\": 1}\n```"
+  },
+  {
+    "index": 167,
+    "message": "Do you want a New Nokia 3510i Colour Phone Delivered Tomorrow? With 200 FREE minutes to any mobile + 100 FREE text + FREE camcorder Reply or Call 08000930705",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 168,
+    "message": "Message:some text missing* Sender:Name Missing* *Number Missing *Sent:Date missing *Missing U a lot thats y everything is missing sent via fullonsms.com",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no valid SMS\", \"verdict\": 0}"
+  },
+  {
+    "index": 169,
+    "message": "18 days to Euro2004 kickoff! U will be kept informed of all the latest news and results daily. Unsubscribe send GET EURO STOP to 83222.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "```json\n{\n    \"reasoning\": \"Urgent reminder, no spam indicators\",\n    \"verdict\": 1\n}\n```"
+  },
+  {
+    "index": 170,
+    "message": "SMS. ac Sptv: The New Jersey Devils and the Detroit Red Wings play Ice Hockey. Correct or Incorrect? End? Reply END SPTV",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 171,
+    "message": "From next month get upto 50% More Calls 4 Ur standard network charge 2 activate Call 9061100010 C Wire3.net 1st4Terms PoBox84 M26 3UZ Cost å£1.50 min MobcudB more",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Not spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 172,
+    "message": "Mila, age23, blonde, new in UK. I look sex with UK guys. if u like fun with me. Text MTALK to 69866.18 . 30pp/txt 1st 5free. å£1.50 increments. Help08718728876",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 173,
+    "message": "Here is your discount code RP176781. To stop further messages reply stop. www.regalportfolio.co.uk. Customer Services 08717205546",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 174,
+    "message": "Sir, i am waiting for your call, once free please call me.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No suspicious elements detected\", \"verdict\": 0}"
+  },
+  {
+    "index": 175,
+    "message": "You best watch what you say cause I get drunk as a motherfucker",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 176,
+    "message": "Yeah he got in at 2 and was v apologetic. n had fallen out and she was actin like spoilt child and he got caught up in that. Till 2! But we won't go there! Not doing too badly cheers. You? ",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"general message\", \"verdict\": 0}"
+  },
+  {
+    "index": 177,
+    "message": "<Forwarded from 88877>FREE entry into our å£250 weekly comp just send the word ENTER to 88877 NOW. 18 T&C www.textcomp.com",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 178,
+    "message": "How about clothes, jewelry, and trips?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Subject line is a bit vague\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 179,
+    "message": "Pls give her prometazine syrup. 5mls then  &lt;#&gt; mins later feed.",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Spam message, no relevant personal information provided\",\n  \"verdict\": 1\n}\n```"
+  },
+  {
+    "index": 180,
+    "message": "This is the 2nd time we have tried 2 contact u. U have won the 750 Pound prize. 2 claim is easy, call 08718726970 NOW! Only 10p per min. BT-national-rate ",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 181,
+    "message": "Sorry! U can not unsubscribe yet. THE MOB offer package has a min term of 54 weeks> pls resubmit request after expiry. Reply THEMOB HELP 4 more info",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"Spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 182,
+    "message": "Is there any training tomorrow?",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n\"reasoning\": \"No spam indicators found, no suspicious elements present.\",\n\"verdict\": 0}\n```"
+  },
+  {
+    "index": 183,
+    "message": "Yes. Nigh you cant aha.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"No spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 184,
+    "message": "I dont want to hear philosophy. Just say what happen",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"The message is a direct request for information and does not contain any promotional elements, so it's considered legitimate.\",\n  \"verdict\": 0\n}"
+  },
+  {
+    "index": 185,
+    "message": "Can you call me plz. Your number shows out of coveragd area. I have urgnt call in vasai &amp; have to reach before 4'o clock so call me plz",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no suspicious elements\", \"verdict\": 0}"
+  },
+  {
+    "index": 186,
+    "message": "WINNER!! As a valued network customer you have been selected to receivea å£900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.",
+    "true_label": 1,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"spam\", \"verdict\": 1}"
+  },
+  {
+    "index": 187,
+    "message": "Aiyah e rain like quite big leh. If drizzling i can at least run home.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 188,
+    "message": "XMAS Prize draws! We are trying to contact U. Todays draw shows that you have won a å£2000 prize GUARANTEED. Call 09058094565 from land line. Valid 12hrs only",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"text message with an emoji, no spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 189,
+    "message": "Sunshine Quiz! Win a super Sony DVD recorder if you canname the capital of Australia? Text MQUIZ to 82277. B",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\"reasoning\": \"no valid information provided\", \"verdict\": 0}\n```"
+  },
+  {
+    "index": 190,
+    "message": "My fri ah... Okie lor,goin 4 my drivin den go shoppin after tt...",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicator\", \"verdict\": 0}"
+  },
+  {
+    "index": 191,
+    "message": "IM GONNAMISSU SO MUCH!!I WOULD SAY IL SEND U A POSTCARD BUTTHERES ABOUTAS MUCH CHANCE OF MEREMEMBERIN ASTHERE IS OFSI NOT BREAKIN HIS CONTRACT!! LUV Yaxx",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam\", \"verdict\": 0}"
+  },
+  {
+    "index": 192,
+    "message": "Hey I am really horny want to chat or see me naked text hot to 69698 text charged at 150pm to unsubscribe text stop 69698",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"A message asking for consent and making a phone call\", \"verdict\": 0}"
+  },
+  {
+    "index": 193,
+    "message": "Yeah there's barely enough room for the two of us, x has too many fucking shoes. Sorry man, see you later",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Urgent message\", \n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 194,
+    "message": "REMINDER FROM O2: To get 2.50 pounds free call credit and details of great offers pls reply 2 this text with your valid name, house no and postcode",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"no spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 195,
+    "message": "Wen ur lovable bcums angry wid u, dnt take it seriously.. Coz being angry is d most childish n true way of showing deep affection, care n luv!.. kettoda manda... Have nice day da.",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"text message with profanity and negative content\", \"verdict\": 0}"
+  },
+  {
+    "index": 196,
+    "message": "Your next amazing xxx PICSFREE1 video will be sent to you enjoy! If one vid is not enough for 2day text back the keyword PICSFREE1 to get the next video.",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"Normal promotional message, no spam indicators\",\n  \"verdict\": 0\n}\n```"
+  },
+  {
+    "index": 197,
+    "message": "Urgent UR awarded a complimentary trip to EuroDisinc Trav, Aco&Entry41 Or å£1000. To claim txt DIS to 87121 18+6*å£1.50(moreFrmMob. ShrAcomOrSglSuplt)10, LS1 3AJ",
+    "true_label": 1,
+    "predicted": 0,
+    "raw_response": "{\"reasoning\": \"No spam indicators\", \"verdict\": 0}"
+  },
+  {
+    "index": 198,
+    "message": "Very hurting n meaningful lines ever: \\I compromised everything for my love",
+    "true_label": 0,
+    "predicted": 1,
+    "raw_response": "{\"reasoning\": \"Spam due to abusive language, no personal relevance\", \"verdict\": 1}"
+  },
+  {
+    "index": 199,
+    "message": "Wait  &lt;#&gt;  min..",
+    "true_label": 0,
+    "predicted": 0,
+    "raw_response": "```json\n{\n  \"reasoning\": \"User is asking for an 'interval' value in minutes, which could be interpreted as spam.\",\n  \"verdict\": 0\n}\n```"
+  }
+]
